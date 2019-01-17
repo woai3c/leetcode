@@ -18,7 +18,7 @@ J 中的字母不重复，J 和 S中的所有字符都是字母。字母区分�
 S 和 J 最多含有50个字母。
  J 中的字符不重复。
  
-## JavaScript
+## JavaScript实现
 ```
 /**
  * @param {string} J
@@ -35,7 +35,7 @@ var numJewelsInStones = function(J, S) {
     return num
 };
 ```
-## C
+## C实现
 ```
 int numJewelsInStones(char* J, char* S) {
     int num = 0;
