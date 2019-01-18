@@ -19,65 +19,59 @@
 说明:  n 的范围为 [1, 10,000]。
 
 ## JavaScript实现
-#### 实现1
 ```
 /**
  * @param {number[]} nums
  * @return {boolean}
  */
 var checkPossibility = function(nums) {
+    let len = nums.length
+    if (len < 3) {
+        return true
+    }
+    
+    len -= 1
     let count = 0
-    let index
-    let len = nums.length - 1
-        
     for (let i = 0; i < len; i++) {
         if (nums[i] > nums[i + 1]) {
             if (++count > 1) {
                 return false
             }
-            index = i
-        }
-    }
-    
-    if (index + 2 <= len) {
-        if (nums[index] > nums[index + 2] && nums[index - 1] > nums[index + 1]) {
-            return false
-        }
-    }
-    
-    return true
-};
-```
-#### 实现2
-```
-/**
- * @param {number[]} nums
- * @return {boolean}
- */
-var checkPossibility = function(nums) {
-    let count = 0
-    
-    for (let i = 0, len = nums.length; i < len; i++) {
-        if (nums[i] > nums[i + 1]) {
-            if (++count > 1) {
-                return false
-            }
             
-            if (i == 0) {
-                nums[i] = nums[i + 1]
-            } else if (i + 2 <= len) {
-                if (nums[i] > nums[i + 2]) {
-                    nums[i] = nums[i + 1]
-                }
-                if (nums[i - 1] > nums[i]) {
+            if (i + 2 <= len) {
+                if (nums[i] > nums[i + 2] && nums[i - 1] > nums[i + 1]) {
                     return false
                 }
-            } else {
-                nums[i + 1] = nums[i]
             }
         }
     }
     
     return true
 };
+```
+
+## C实现
+```
+bool checkPossibility(int* nums, int numsSize) {
+    if (numsSize < 3) {
+        return true;
+    }
+    
+    int count = 0;
+    for (int i = 0, len = numsSize - 1; i < len; i++) {
+        if (nums[i] > nums[i + 1]) {
+            if (++count > 1) {
+                return false;
+            }
+            
+            if (i + 2 <= len) {
+                if (nums[i] > nums[i + 2] && nums[i - 1] > nums[i + 1]) {
+                    return false;
+                }
+            }
+        }
+    }
+    
+    return true;
+}
 ```
