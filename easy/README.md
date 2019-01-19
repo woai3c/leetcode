@@ -4,3 +4,4 @@
 * [亲密字符串](https://github.com/woai3c/leetcode/blob/master/easy/buddy-strings.md)
 * [模拟行走机器人](https://github.com/woai3c/leetcode/blob/master/easy/walking-robot-simulation.md)
 * [设计链表](https://github.com/woai3c/leetcode/blob/master/easy/design-linked-list.md)
+* [计数质数](https://github.com/woai3c/leetcode/blob/master/easy/count-primes.md)
