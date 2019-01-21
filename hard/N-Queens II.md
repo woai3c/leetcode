@@ -59,3 +59,47 @@ var totalNQueens = function(n) {
 };
 
 ```
+
+#### 实现2
+思路：https://blog.csdn.net/you_will_know_me/article/details/78419088
+
+实现1和实现2其实是一样的，只不过一个用数组作比较一个用位作比较。
+```
+let count
+let arry = []
+
+function test(row, col){
+	let i = 0
+	while (i < row) {
+		if(arry[i] == col || Math.abs(row - i) == Math.abs(arry[i] - col)) {
+            return false
+        }
+		i++				 
+	}
+	return true
+}
+ 
+function getQueenNum(row, n) {
+	let col
+	if(row < n) {
+		for(col = 0; col < n; col++) {
+            if(test(row, col)) {
+				arry[row] = col		
+				getQueenNum(row + 1, n)	 
+			}
+        }	
+	} else {
+		count++
+	}
+}
+
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var totalNQueens = function(n) {
+    count = 0
+    getQueenNum(0, n)
+    return count
+};
+```
