@@ -6,3 +6,4 @@
 * [设计链表](https://github.com/woai3c/leetcode/blob/master/easy/design-linked-list.md)
 * [计数质数](https://github.com/woai3c/leetcode/blob/master/easy/count-primes.md)
 * [独特的电子邮件](https://github.com/woai3c/leetcode/blob/master/easy/unique-email-addresses.md)
+* [转换成小写字母](https://github.com/woai3c/leetcode/blob/master/easy/To%20Lower%20Case.md)
