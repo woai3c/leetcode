@@ -68,12 +68,60 @@ var findRadius = function(houses, heaters) {
     houses.sort((a, b) => a - b)
     heaters.sort((a, b) => a - b)
     let i = 0, max = 0, len = heaters.length - 1
+    
     for(let house of houses) {
-        while(i < len && heaters[i] + heaters[i + 1] <= house * 2) {
+        let temp = house * 2
+        while(i < len && heaters[i] + heaters[i + 1] <= temp) {
             i++
         }
         max = Math.max(max, Math.abs(heaters[i] - house))
     }
+    return max
+};
+```
+
+#### 实现3
+```
+/**
+ * @param {number[]} houses
+ * @param {number[]} heaters
+ * @return {number}
+ */
+var findRadius = function(houses, heaters) {
+    heaters.sort((a, b) => a - b)
+    let left = 0
+    let right = heaters.length - 1
+    
+    let max = 0
+    
+    for (let i = 0, len = houses.length; i < len; i++) {
+        let house = houses[i]
+        let start = left
+        let end = right
+        let mid
+        let min
+
+        while (start < end) {
+            mid = Math.floor((end + start) / 2)
+            if (heaters[mid] < house) {
+                start = mid + 1
+            } else if (heaters[mid] > house) {
+                end = mid
+            } else {
+                min = 0
+                break
+            }
+        }
+        
+        if (min === undefined) {
+            if (start == end && start > 0) {
+                start--
+            } 
+            min = Math.min(Math.abs(heaters[start] - house), Math.abs(heaters[end] - house))
+        }
+        max = Math.max(min, max)
+    }
+
     return max
 };
 ```
