@@ -7,3 +7,4 @@
 * [计数质数](https://github.com/woai3c/leetcode/blob/master/easy/count-primes.md)
 * [独特的电子邮件](https://github.com/woai3c/leetcode/blob/master/easy/unique-email-addresses.md)
 * [转换成小写字母](https://github.com/woai3c/leetcode/blob/master/easy/To%20Lower%20Case.md)
+* [供暖器](https://github.com/woai3c/leetcode/blob/master/easy/Heaters.md)
