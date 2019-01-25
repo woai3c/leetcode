@@ -12,3 +12,4 @@
 * [种花问题](https://github.com/woai3c/leetcode/blob/master/easy/Can%20Place%20Flowers.md)
 * [第一个错误的版本](https://github.com/woai3c/leetcode/blob/master/easy/First%20Bad%20Version.md)
 * [给定数字能组成的最大时间](https://github.com/woai3c/leetcode/blob/master/easy/Largest%20Time%20for%20Given%20Digits.md)
+8 [平方数之和](https://github.com/woai3c/leetcode/blob/master/easy/Sum%20of%20Square%20Numbers.md)
