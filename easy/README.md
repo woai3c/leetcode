@@ -10,3 +10,4 @@
 * [供暖器](https://github.com/woai3c/leetcode/blob/master/easy/Heaters.md)
 * [重复叠加字符串匹配](https://github.com/woai3c/leetcode/blob/master/easy/Repeated%20String%20Match.md)
 * [种花问题](https://github.com/woai3c/leetcode/blob/master/easy/Can%20Place%20Flowers.md)
+* [第一个错误的版本](https://github.com/woai3c/leetcode/blob/master/easy/First%20Bad%20Version.md)
