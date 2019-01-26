@@ -14,3 +14,4 @@
 * [给定数字能组成的最大时间](https://github.com/woai3c/leetcode/blob/master/easy/Largest%20Time%20for%20Given%20Digits.md)
 * [平方数之和](https://github.com/woai3c/leetcode/blob/master/easy/Sum%20of%20Square%20Numbers.md)
 * [字符串中的单词数](https://github.com/woai3c/leetcode/blob/master/easy/Number%20of%20Segments%20in%20a%20String.md)
+* [最后一个单词的长度](https://github.com/woai3c/leetcode/blob/master/easy/Length%20of%20Last%20Word.md)
