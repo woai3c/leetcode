@@ -17,3 +17,4 @@
 * [最后一个单词的长度](https://github.com/woai3c/leetcode/blob/master/easy/Length%20of%20Last%20Word.md)
 * [按奇偶排序数组](https://github.com/woai3c/leetcode/blob/master/easy/Sort%20Array%20By%20Parity.md)
 * [唯一摩尔斯密码词](https://github.com/woai3c/leetcode/blob/master/easy/Unique%20Morse%20Code%20Words.md)
+* [验证回文字符串 Ⅱ](https://github.com/woai3c/leetcode/blob/master/easy/Valid%20Palindrome%20II.md)
