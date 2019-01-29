@@ -18,3 +18,4 @@
 * [按奇偶排序数组](https://github.com/woai3c/leetcode/blob/master/easy/Sort%20Array%20By%20Parity.md)
 * [唯一摩尔斯密码词](https://github.com/woai3c/leetcode/blob/master/easy/Unique%20Morse%20Code%20Words.md)
 * [验证回文字符串 Ⅱ](https://github.com/woai3c/leetcode/blob/master/easy/Valid%20Palindrome%20II.md)
+* [卡牌分组](https://github.com/woai3c/leetcode/blob/master/easy/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
