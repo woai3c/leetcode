@@ -95,20 +95,35 @@ function subGroup(deck, groups, x) {
  * @return {boolean}
  */
 var hasGroupsSizeX = function(deck) {
-    let len = deck.length
-    if (len < 2) {
-        return false
-    } else if (len == 2) {
-        return deck[0] == deck[1]
-    }
-    
     const obj = {}
-    for (let i = 0; i < len; i++) {
+    for (let i = 0, len = deck.length; i < len; i++) {
         let key = deck[i]
-        if (obj[key] === undefined) {
+        if (obj[key] !== undefined) {
+            obj[key]++
+        } else {
             obj[key] = 1
         }
-        obj[key]++
+    }
+    
+    const vals = Object.values(obj)
+    const min = Math.min(...vals) 
+    if (min < 2) {
+        return false
+    }
+
+    let len = vals.length
+    for (let i = 2; i <= min; i++) {
+        let flag = true
+        for (let j = 0; j < len; j++) {
+            if (vals[j] % i != 0) {
+                flag = false
+                break
+            }
+        }
+        
+        if (flag) {
+            return true
+        }
     }
     
     return false
