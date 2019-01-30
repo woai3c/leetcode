@@ -69,3 +69,34 @@ var findPairs = function(nums, k) {
     }
 };
 ```
+#### 实现2
+```
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+var findPairs = function(nums, k) {
+    if (k < 0) {
+        return 0
+    }
+    
+    let set = new Set()
+    let fit = new Set()
+    
+    for (let i = 0, len = nums.length; i < len; i++) {
+        let temp = nums[i]
+        let dif = temp - k
+        let sum = temp + k
+        if (set.has(sum)) {
+            fit.add(sum)
+        }
+        if (set.has(dif)) {
+            fit.add(temp)
+        }
+        set.add(temp)
+    }
+    
+    return fit.size
+};
+```
