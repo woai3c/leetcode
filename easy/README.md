@@ -21,3 +21,4 @@
 * [卡牌分组](https://github.com/woai3c/leetcode/blob/master/easy/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
 * [Excel表列名称](https://github.com/woai3c/leetcode/blob/master/easy/Excel%20Sheet%20Column%20Title.md)
 * [数组中的K-diff数对](https://github.com/woai3c/leetcode/blob/master/easy/K-diff%20Pairs%20in%20an%20Array.md)
+* [最短无序连续子数组](https://github.com/woai3c/leetcode/blob/master/easy/Shortest%20Unsorted%20Continuous%20Subarray.md)
