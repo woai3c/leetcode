@@ -116,10 +116,8 @@ var findUnsortedSubarray = function(nums) {
 var findUnsortedSubarray = function(nums) {
     const newArry = nums.slice()
     newArry.sort((a, b) => a - b)
-    if (newArry.join('') == nums.join('')) {
-        return 0
-    }
-        
+
+    let isEdit = false    
     let len = nums.length
     let start = 0
     let end = len - 1
@@ -127,6 +125,7 @@ var findUnsortedSubarray = function(nums) {
     for (let i = 0; i < len; i++) {
         if (newArry[i] != nums[i]) {
             start = i
+            isEdit = true
             break
         }
     }
@@ -134,10 +133,15 @@ var findUnsortedSubarray = function(nums) {
     for (let i = len - 1; i >= 0; i--) {
         if (newArry[i] != nums[i]) {
             end = i
+            isEdit = true
             break
         }
     }
     
-    return end - start + 1
+    if (isEdit) {
+        return end - start + 1
+    }
+    
+    return 0
 };
 ```
