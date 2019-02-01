@@ -22,3 +22,4 @@
 * [Excel表列名称](https://github.com/woai3c/leetcode/blob/master/easy/Excel%20Sheet%20Column%20Title.md)
 * [数组中的K-diff数对](https://github.com/woai3c/leetcode/blob/master/easy/K-diff%20Pairs%20in%20an%20Array.md)
 * [最短无序连续子数组](https://github.com/woai3c/leetcode/blob/master/easy/Shortest%20Unsorted%20Continuous%20Subarray.md)
+* [不含 AAA 或 BBB 的字符串](https://github.com/woai3c/leetcode/blob/master/easy/String%20Without%20AAA%20or%20BBB.md)
