@@ -24,3 +24,4 @@
 * [最短无序连续子数组](https://github.com/woai3c/leetcode/blob/master/easy/Shortest%20Unsorted%20Continuous%20Subarray.md)
 * [不含 AAA 或 BBB 的字符串](https://github.com/woai3c/leetcode/blob/master/easy/String%20Without%20AAA%20or%20BBB.md)
 * [有序数组的平方](https://github.com/woai3c/leetcode/blob/master/easy/Squares%20of%20a%20Sorted%20Array.md)
+* [查询后的偶数和](https://github.com/woai3c/leetcode/blob/master/easy/Sum%20of%20Even%20Numbers%20After%20Queries.md)
