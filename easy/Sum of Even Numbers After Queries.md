@@ -1,3 +1,4 @@
+# 查询后的偶数和
 给出一个整数数组 `A` 和一个查询数组 `queries`。
 
 对于第 `i` 次查询，有 `val = queries[i][0], index = queries[i][1]`，我们会把 `val` 加到 `A[index]` 上。然后，第 `i` 次查询的答案是 `A`中偶数值的和。
@@ -45,7 +46,60 @@ var sumEvenAfterQueries = function(A, queries) {
         index = queries[i][1]
         A[index] += val
         
-        answer.push(A.reduce((sum, val) => val & 1? sum + 0 : sum + val, 0))
+        answer.push(evenSum(A))
+    }
+    
+    return answer
+};
+
+function evenSum(arry) {
+    let sum = 0
+    for (let i = 0, len = arry.length; i < len; i++) {
+        if (!(arry[i] & 1)) {
+            sum += arry[i]
+        }
+    }
+    
+    return sum
+}
+```
+#### 实现2
+```
+/**
+ * @param {number[]} A
+ * @param {number[][]} queries
+ * @return {number[]}
+ */
+var sumEvenAfterQueries = function(A, queries) {
+    let sum = 0
+    for (let i = 0, len = A.length; i < len; i++) {
+        if (!(A[i] & 1)) {
+            sum += A[i]
+        }
+    }
+    
+    const answer = []
+    let val, index, pre
+    
+    for (let i = 0, len = queries.length; i < len; i++) {
+        val = queries[i][0]
+        index = queries[i][1]
+        pre = A[index]
+        A[index] = val + pre
+        
+        if (pre & 1) {
+            if (val & 1) {
+                sum += A[index]
+            }
+        } else {
+            if (val & 1) {
+                sum -= pre
+            } else {
+                sum += val
+            }
+        }
+        
+        answer.push(sum)
     }
     
     return answer
