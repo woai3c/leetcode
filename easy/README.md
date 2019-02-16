@@ -27,3 +27,4 @@
 * [查询后的偶数和](https://github.com/woai3c/leetcode/blob/master/easy/Sum%20of%20Even%20Numbers%20After%20Queries.md)
 * [第N个数字](https://github.com/woai3c/leetcode/blob/master/easy/Nth%20Digit.md)
 * [矩阵中的幻方](https://github.com/woai3c/leetcode/blob/master/easy/Magic%20Squares%20In%20Grid.md)
+* [第三大的数](https://github.com/woai3c/leetcode/blob/master/easy/Third%20Maximum%20Number.md)
