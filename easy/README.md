@@ -28,3 +28,4 @@
 * [第N个数字](https://github.com/woai3c/leetcode/blob/master/easy/Nth%20Digit.md)
 * [矩阵中的幻方](https://github.com/woai3c/leetcode/blob/master/easy/Magic%20Squares%20In%20Grid.md)
 * [第三大的数](https://github.com/woai3c/leetcode/blob/master/easy/Third%20Maximum%20Number.md)
+* [整数反转](https://github.com/woai3c/leetcode/blob/master/easy/Reverse%20Integer.md)
