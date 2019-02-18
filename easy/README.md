@@ -29,3 +29,4 @@
 * [矩阵中的幻方](https://github.com/woai3c/leetcode/blob/master/easy/Magic%20Squares%20In%20Grid.md)
 * [第三大的数](https://github.com/woai3c/leetcode/blob/master/easy/Third%20Maximum%20Number.md)
 * [整数反转](https://github.com/woai3c/leetcode/blob/master/easy/Reverse%20Integer.md)
+* [最常见的单词](https://github.com/woai3c/leetcode/blob/master/easy/Most%20Common%20Word.md)
