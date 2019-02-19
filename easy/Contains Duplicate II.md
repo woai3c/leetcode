@@ -91,3 +91,26 @@ var containsNearbyDuplicate = function(nums, k) {
     return false
 };
 ```
+#### 实现4
+```js
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {boolean}
+ */
+var containsNearbyDuplicate = function(nums, k) {
+    for (let i = 1, len = nums.length; i < len; i++) {
+        for (let j = i - 1; j >= 0; j--) {
+            if (nums[i] > nums[j]) {
+                break
+            } else if (nums[i] == nums[j]) {
+                if (i - j <= k) {
+                    return true
+                }
+            }
+        }
+    }
+    
+    return false
+};
+```
