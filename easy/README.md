@@ -32,3 +32,4 @@
 * [最常见的单词](https://github.com/woai3c/leetcode/blob/master/easy/Most%20Common%20Word.md)
 * [最长公共前缀](https://github.com/woai3c/leetcode/blob/master/easy/Longest%20Common%20Prefix.md)
 * [存在重复元素 II](https://github.com/woai3c/leetcode/blob/master/easy/Contains%20Duplicate%20II.md)
+* [压缩字符串](https://github.com/woai3c/leetcode/blob/master/easy/String%20Compression.md)
