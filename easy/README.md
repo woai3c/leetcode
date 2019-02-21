@@ -34,3 +34,4 @@
 * [存在重复元素 II](https://github.com/woai3c/leetcode/blob/master/easy/Contains%20Duplicate%20II.md)
 * [压缩字符串](https://github.com/woai3c/leetcode/blob/master/easy/String%20Compression.md)
 * [子数组最大平均数 I](https://github.com/woai3c/leetcode/blob/master/easy/Maximum%20Average%20Subarray%20I.md)
+* [完美数](https://github.com/woai3c/leetcode/blob/master/easy/Perfect%20Number.md)
