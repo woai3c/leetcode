@@ -35,3 +35,4 @@
 * [压缩字符串](https://github.com/woai3c/leetcode/blob/master/easy/String%20Compression.md)
 * [子数组最大平均数 I](https://github.com/woai3c/leetcode/blob/master/easy/Maximum%20Average%20Subarray%20I.md)
 * [完美数](https://github.com/woai3c/leetcode/blob/master/easy/Perfect%20Number.md)
+* [最长同值路径](https://github.com/woai3c/leetcode/blob/master/easy/Longest%20Univalue%20Path.md)
