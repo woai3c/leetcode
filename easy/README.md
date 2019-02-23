@@ -36,3 +36,4 @@
 * [子数组最大平均数 I](https://github.com/woai3c/leetcode/blob/master/easy/Maximum%20Average%20Subarray%20I.md)
 * [完美数](https://github.com/woai3c/leetcode/blob/master/easy/Perfect%20Number.md)
 * [最长同值路径](https://github.com/woai3c/leetcode/blob/master/easy/Longest%20Univalue%20Path.md)
+* [有效的山脉数组](https://github.com/woai3c/leetcode/blob/master/easy/Valid%20Mountain%20Array.md)
