@@ -39,11 +39,9 @@
  */
 var validMountainArray = function(A) {
     let len = A.length
-    if (len < 3) {
+    if (len < 3 || A[0] >= A[1]) {
         return false
-    } else if (A[0] >= A[1]) {
-        return false
-    }
+    } 
     
     let isFirst = false
     for (let i = 1, l = len - 1; i < l; i++) {
