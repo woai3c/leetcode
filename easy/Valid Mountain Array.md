@@ -54,6 +54,6 @@ var validMountainArray = function(A) {
         }
     }
     
-    return isFirst? true : false
+    return isFirst
 };
 ```
