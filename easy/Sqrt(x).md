@@ -77,3 +77,24 @@ var mySqrt = function(x) {
     return left < right? left : right
 };
 ```
+
+#### 实现3
+```js
+/**
+ * @param {number} x
+ * @return {number}
+ */
+var mySqrt = function(x) {
+    if (x == 0) {
+        return 0
+    }
+    
+    let last = 0
+    let res = 1
+    while (res != last) {
+        last = res
+        res = (res + x / res) / 2
+    }
+    return parseInt(res)
+};
+```
