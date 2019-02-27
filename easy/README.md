@@ -39,3 +39,4 @@
 * [有效的山脉数组](https://github.com/woai3c/leetcode/blob/master/easy/Valid%20Mountain%20Array.md)
 * [寻找数组的中心索引](https://github.com/woai3c/leetcode/blob/master/easy/Find%20Pivot%20Index.md)
 * [错误的集合](https://github.com/woai3c/leetcode/blob/master/easy/Set%20Mismatch.md)
+* [x 的平方根](https://github.com/woai3c/leetcode/blob/f47aa504d3d738d83e8bdb6d26a330c4bbbb20f0/easy/Sqrt(x).md)
