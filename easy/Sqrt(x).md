@@ -54,5 +54,26 @@ var mySqrt = function(x) {
 
 #### 实现2
 ```js
-
+/**
+ * @param {number} x
+ * @return {number}
+ */
+var mySqrt = function(x) {
+    let left = 0
+    let right = x
+    let mid
+    while(left <= right) {
+        mid = parseInt((left + right) / 2)
+        let square = mid * mid
+        if (square > x) {
+            right = mid - 1
+        } else if (square < x) {
+            left = mid + 1
+        } else {
+            return mid
+        }
+    }
+    
+    return left < right? left : right
+};
 ```
