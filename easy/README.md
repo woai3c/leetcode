@@ -41,3 +41,4 @@
 * [错误的集合](https://github.com/woai3c/leetcode/blob/master/easy/Set%20Mismatch.md)
 * [x 的平方根](https://github.com/woai3c/leetcode/blob/master/easy/Sqrt(x).md)
 * [到最近的人的最大距离](https://github.com/woai3c/leetcode/blob/master/easy/Maximize%20Distance%20to%20Closest%20Person.md)
+* [颠倒二进制位](https://github.com/woai3c/leetcode/blob/master/easy/Reverse%20Bits.md)
