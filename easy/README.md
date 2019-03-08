@@ -43,3 +43,4 @@
 * [到最近的人的最大距离](https://github.com/woai3c/leetcode/blob/master/easy/Maximize%20Distance%20to%20Closest%20Person.md)
 * [颠倒二进制位](https://github.com/woai3c/leetcode/blob/master/easy/Reverse%20Bits.md)
 * [回文链表](https://github.com/woai3c/leetcode/blob/master/easy/Palindrome%20Linked%20List.md)
+* [到达终点数字](https://github.com/woai3c/leetcode/blob/master/easy/Reach%20a%20Number.md)
