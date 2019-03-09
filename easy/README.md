@@ -44,3 +44,4 @@
 * [颠倒二进制位](https://github.com/woai3c/leetcode/blob/master/easy/Reverse%20Bits.md)
 * [回文链表](https://github.com/woai3c/leetcode/blob/master/easy/Palindrome%20Linked%20List.md)
 * [到达终点数字](https://github.com/woai3c/leetcode/blob/master/easy/Reach%20a%20Number.md)
+* [排列硬币](https://github.com/woai3c/leetcode/blob/master/easy/Arranging%20Coins.md)
