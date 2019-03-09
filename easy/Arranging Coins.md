@@ -54,3 +54,45 @@ var arrangeCoins = function(n) {
     return row
 };
 ```
+#### 实现2
+思路：等差数列 转化成一元二次方程式求解
+```js
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var arrangeCoins = function(n) {
+    return ~~((-1 + Math.sqrt(1 + 8 * n)) / 2)
+};
+```
+#### 实现3
+```js
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var arrangeCoins = function(n) {
+    if (n == 0) {
+        return 0    
+    } else if (n < 3) {
+        return 1
+    }
+    
+    let left = 0, right = n
+    
+    while (left <= right) {
+        let mid = ~~((left + right) / 2)
+        const sum = mid * (mid + 1) / 2
+        
+        if (sum < n) {
+            left = mid + 1
+        } else if (sum > n) {
+            right = mid - 1
+        } else {
+            return mid
+        }
+    }
+    
+    return left - 1
+};
+```
