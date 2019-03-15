@@ -47,3 +47,4 @@
 * [排列硬币](https://github.com/woai3c/leetcode/blob/master/easy/Arranging%20Coins.md)
 * [找到字符串中所有字母异位词](https://github.com/woai3c/leetcode/blob/master/easy/Find%20All%20Anagrams%20in%20a%20String.md)
 * [猜数字大小](https://github.com/woai3c/leetcode/blob/master/easy/Guess%20Number%20Higher%20or%20Lower.md)
+* [字符串中的第一个唯一字符](https://github.com/woai3c/leetcode/blob/master/easy/First%20Unique%20Character%20in%20a%20String.md)
