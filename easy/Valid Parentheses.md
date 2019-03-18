@@ -57,39 +57,18 @@ var isValid = function(s) {
     while (i < len) {
         switch (s[i]) {
             case '(':
-                if (s[i + 1] == ')') {
-                    i++
-                } else {
-                    while (s[i + 1] != ')') {
-                        if (i >= len || !process(s)) {
-                            return false
-                        }
-                    }
-                    i++
+                if (!common(s, ')')) {
+                    return false
                 }
                 break
             case '[':
-                if (s[i + 1] == ']') {
-                    i++
-                } else {
-                    while (s[i + 1] != ']') {
-                        if (i >= len || !process(s)) {
-                            return false
-                        }
-                    }
-                    i++
+                if (!common(s, ']')) {
+                    return false
                 }
                 break
             case '{':
-                if (s[i + 1] == '}') {
-                    i++
-                } else {
-                    while (s[i + 1] != '}') {
-                        if (i >= len || !process(s)) {
-                            return false
-                        }
-                    }
-                    i++
+                if (!common(s, '}')) {
+                    return false
                 }
                 break
             default:
@@ -104,47 +83,40 @@ var isValid = function(s) {
 function process(s) {
     i++
     switch (s[i]) {
-        case '(':
-            if (s[i + 1] == ')') {
-                i++
-            } else {
-                while (s[i + 1] != ')') {
-                    if (i >= len || !process(s)) {
-                            return false
-                        }
+            case '(':
+                if (!common(s, ')')) {
+                    return false
                 }
-                i++
-            }
-            break
-        case '[':
-            if (s[i + 1] == ']') {
-                i++
-            } else {
-                while (s[i + 1] != ']') {
-                    if (i >= len || !process(s)) {
-                        return false
-                    }
+                break
+            case '[':
+                if (!common(s, ']')) {
+                    return false
                 }
-                i++
-            }
-            break
-        case '{':
-            
-            if (s[i + 1] == '}') {
-                i++
-            } else {
-                while (s[i + 1] != '}') {
-                    if (i >= len || !process(s)) {
-                        return false
-                    }
+                break
+            case '{':
+                if (!common(s, '}')) {
+                    return false
                 }
-                i++
-            }
-            break
-        default:
-            return false
-    }
+                break
+            default:
+                return false
+        }
     
+    return true
+}
+
+function common(s, symbol) {
+    if (s[i + 1] == symbol) {
+        i++
+    } else {
+        while (s[i + 1] != symbol) {
+            if (i >= len || !process(s)) {
+                return false
+            }
+        }
+        i++
+    }
+
     return true
 }
 ```
