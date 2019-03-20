@@ -49,3 +49,4 @@
 * [猜数字大小](https://github.com/woai3c/leetcode/blob/master/easy/Guess%20Number%20Higher%20or%20Lower.md)
 * [字符串中的第一个唯一字符](https://github.com/woai3c/leetcode/blob/master/easy/First%20Unique%20Character%20in%20a%20String.md)
 * [密钥格式化](https://github.com/woai3c/leetcode/blob/master/easy/License%20Key%20Formatting.md)
+* [阶乘后的零](https://github.com/woai3c/leetcode/blob/master/easy/Factorial%20Trailing%20Zeroes.md)
