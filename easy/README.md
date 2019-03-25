@@ -51,3 +51,4 @@
 * [密钥格式化](https://github.com/woai3c/leetcode/blob/master/easy/License%20Key%20Formatting.md)
 * [阶乘后的零](https://github.com/woai3c/leetcode/blob/master/easy/Factorial%20Trailing%20Zeroes.md)
 * [单词模式](https://github.com/woai3c/leetcode/blob/master/easy/Word%20Pattern.md)
+* [二叉树的最小深度](https://github.com/woai3c/leetcode/blob/master/easy/Minimum%20Depth%20of%20Binary%20Tree.md)
