@@ -3,7 +3,7 @@
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
-
+![](https://github.com/woai3c/leetcode/blob/master/imgs/237_example.png)
 
  
 
