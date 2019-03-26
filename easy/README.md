@@ -52,3 +52,4 @@
 * [阶乘后的零](https://github.com/woai3c/leetcode/blob/master/easy/Factorial%20Trailing%20Zeroes.md)
 * [单词模式](https://github.com/woai3c/leetcode/blob/master/easy/Word%20Pattern.md)
 * [二叉树的最小深度](https://github.com/woai3c/leetcode/blob/master/easy/Minimum%20Depth%20of%20Binary%20Tree.md)
+* [删除链表中的节点](https://github.com/woai3c/leetcode/blob/master/easy/Delete%20Node%20in%20a%20Linked%20List.md)
