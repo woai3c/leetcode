@@ -53,3 +53,4 @@
 * [单词模式](https://github.com/woai3c/leetcode/blob/master/easy/Word%20Pattern.md)
 * [二叉树的最小深度](https://github.com/woai3c/leetcode/blob/master/easy/Minimum%20Depth%20of%20Binary%20Tree.md)
 * [删除链表中的节点](https://github.com/woai3c/leetcode/blob/master/easy/Delete%20Node%20in%20a%20Linked%20List.md)
+* [可被 5 整除的二进制前缀](https://github.com/woai3c/leetcode/blob/master/easy/Binary%20Prefix%20Divisible%20By%205.md)
