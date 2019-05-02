@@ -82,3 +82,38 @@ function sumNodeToLeaf(node, val) {
     }
 }
 ```
+
+#### 实现2
+```js
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number}
+ */
+var sumRootToLeaf = function(root) {
+    if (!root) {
+        return 0
+    }
+    
+    if (!root.left && !root.right) {
+        return root.val
+    }
+    
+    const val = root.val * 2
+    if (root.left) {
+        root.left.val += val
+    }
+    
+    if (root.right) {
+        root.right.val += val
+    }
+    
+    return sumRootToLeaf(root.left) + sumRootToLeaf(root.right)
+};
+```
