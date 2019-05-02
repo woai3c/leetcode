@@ -10,7 +10,7 @@
  
 
 示例：
-
+![img](https://github.com/woai3c/leetcode/blob/master/imgs/sum-of-root-to-leaf-binary-numbers.png)
 
 ```
 输入：[1,0,1,0,1,0,1]
