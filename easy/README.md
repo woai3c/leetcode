@@ -56,3 +56,4 @@
 * [可被 5 整除的二进制前缀](https://github.com/woai3c/leetcode/blob/master/easy/Binary%20Prefix%20Divisible%20By%205.md)
 * [强整数](https://github.com/woai3c/leetcode/blob/master/easy/Powerful%20Integers.md)
 * [从根到叶的二进制数之和](https://github.com/woai3c/leetcode/blob/master/easy/Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
+* [路径总和](https://github.com/woai3c/leetcode/blob/master/easy/path-sum.md)
