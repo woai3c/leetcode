@@ -58,3 +58,4 @@
 * [从根到叶的二进制数之和](https://github.com/woai3c/leetcode/blob/master/easy/Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
 * [路径总和](https://github.com/woai3c/leetcode/blob/master/easy/path-sum.md)
 * [翻转二叉树](https://github.com/woai3c/leetcode/blob/master/easy/invert-binary-tree.md)
+* [二进制求和](https://github.com/woai3c/leetcode/blob/master/easy/add-binary.md)
