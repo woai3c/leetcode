@@ -59,3 +59,5 @@
 * [路径总和](https://github.com/woai3c/leetcode/blob/master/easy/path-sum.md)
 * [翻转二叉树](https://github.com/woai3c/leetcode/blob/master/easy/invert-binary-tree.md)
 * [二进制求和](https://github.com/woai3c/leetcode/blob/master/easy/add-binary.md)
+* [打家劫舍](https://github.com/woai3c/leetcode/blob/master/easy/house-robber.md)
+* [三步问题](https://github.com/woai3c/leetcode/blob/master/easy/three-steps-problem-lcci.md)
