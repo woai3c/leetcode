@@ -3,3 +3,4 @@
 * [二叉树的搜索范围和](https://github.com/woai3c/leetcode/blob/master/medium/Range%20Sum%20of%20BST.md)
 * [按递增顺序显示卡牌](https://github.com/woai3c/leetcode/blob/master/medium/Reveal%20Cards%20In%20Increasing%20Order.md)
 * [组合总和 II](https://github.com/woai3c/leetcode/blob/master/medium/combination-sum-ii.md)
+* [比特位计数](https://github.com/woai3c/leetcode/blob/master/medium/counting-bits.md)
