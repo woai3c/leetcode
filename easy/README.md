@@ -61,3 +61,7 @@
 * [二进制求和](https://github.com/woai3c/leetcode/blob/master/easy/add-binary.md)
 * [打家劫舍](https://github.com/woai3c/leetcode/blob/master/easy/house-robber.md)
 * [三步问题](https://github.com/woai3c/leetcode/blob/master/easy/three-steps-problem-lcci.md)
+* [判断子序列](https://github.com/woai3c/leetcode/blob/master/easy/is-subsequence.md)
+* [使用最小花费爬楼梯](https://github.com/woai3c/leetcode/blob/master/easy/min-cost-climbing-stairs.md)
+* [爬楼梯](https://github.com/woai3c/leetcode/blob/master/easy/climbing-stairs.md)
+
