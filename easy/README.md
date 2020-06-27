@@ -64,4 +64,5 @@
 * [判断子序列](https://github.com/woai3c/leetcode/blob/master/easy/is-subsequence.md)
 * [使用最小花费爬楼梯](https://github.com/woai3c/leetcode/blob/master/easy/min-cost-climbing-stairs.md)
 * [爬楼梯](https://github.com/woai3c/leetcode/blob/master/easy/climbing-stairs.md)
-
+* [字母大小写全排列](https://github.com/woai3c/leetcode/blob/master/easy/letter-case-permutation.md)
+* [二进制手表](https://github.com/woai3c/leetcode/blob/master/easy/binary-watch.md)
