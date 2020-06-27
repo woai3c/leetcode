@@ -4,3 +4,4 @@
 * [按递增顺序显示卡牌](https://github.com/woai3c/leetcode/blob/master/medium/Reveal%20Cards%20In%20Increasing%20Order.md)
 * [组合总和 II](https://github.com/woai3c/leetcode/blob/master/medium/combination-sum-ii.md)
 * [比特位计数](https://github.com/woai3c/leetcode/blob/master/medium/counting-bits.md)
+* [无重复字符串的排列组合](https://github.com/woai3c/leetcode/blob/master/medium/permutation-i-lcci.md)
