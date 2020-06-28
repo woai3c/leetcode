@@ -34,8 +34,8 @@ var subsets = function(nums) {
 };
 
 function dfs(nums, start, path, result) {
-    if (start == nums.length) return result.push(path.slice())
     result.push(path.slice())
+    if (start == nums.length) return
     for (let i = start, len = nums.length; i < len; i++) {
         path.push(nums[i])
         dfs(nums, i + 1, path, result)
