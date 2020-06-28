@@ -5,3 +5,6 @@
 * [组合总和 II](https://github.com/woai3c/leetcode/blob/master/medium/combination-sum-ii.md)
 * [比特位计数](https://github.com/woai3c/leetcode/blob/master/medium/counting-bits.md)
 * [无重复字符串的排列组合](https://github.com/woai3c/leetcode/blob/master/medium/permutation-i-lcci.md)
+* [面试题 08.09. 括号](https://github.com/woai3c/leetcode/blob/master/medium/bracket-lcci.md)
+* [面试题 08.04. 幂集](https://github.com/woai3c/leetcode/blob/master/medium/power-set-lcci.md)
+* [全排列](https://github.com/woai3c/leetcode/blob/master/medium/permutations.md)
