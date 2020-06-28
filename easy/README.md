@@ -66,3 +66,8 @@
 * [爬楼梯](https://github.com/woai3c/leetcode/blob/master/easy/climbing-stairs.md)
 * [字母大小写全排列](https://github.com/woai3c/leetcode/blob/master/easy/letter-case-permutation.md)
 * [二进制手表](https://github.com/woai3c/leetcode/blob/master/easy/binary-watch.md)
+* [两个数组的交集 II](https://github.com/woai3c/leetcode/blob/master/easy/intersection-of-two-arrays-ii.md)
+* [三角形的最大周长](https://github.com/woai3c/leetcode/blob/master/easy/largest-perimeter-triangle.md)
+* [有效的字母异位词](https://github.com/woai3c/leetcode/blob/master/easy/valid-anagram.md)
+* [二叉搜索树中的众数](https://github.com/woai3c/leetcode/blob/master/easy/find-mode-in-binary-search-tree.md)
+
