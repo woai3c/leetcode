@@ -70,4 +70,60 @@ function _findMode(root, hash) {
 }
 ```
 ### 实现2
-中序遍历，待实现...
+中序遍历二叉搜索树相当于在遍历一个升序数组。
+```js
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number[]}
+ */
+ var findMode = function(root) {
+    if (!root) return []
+    const result = []
+    let maxCount = 0
+    let val = 0
+    let count = 0
+    let preNode = null
+
+    function _findMode(node) {
+        if (!node) return
+        _findMode(node.left)
+        if (preNode) {
+            if (preNode.val == node.val) {
+                count++
+            } else {
+                val = node.val
+                count = 1
+            }
+            
+            // 当前值计数比最大计数要大，则清除原来的结果，推入现在的值
+            if (count > maxCount) {
+                maxCount = count
+                result.length = 0
+                result.push(node.val)
+            } else if (count == maxCount) {
+                result.push(node.val)
+            }
+        } else {
+            // 没有 proNode 说明是第一个节点
+            val = node.val
+            count = 1
+            maxCount = 1
+            result.push(node.val)
+        }
+        
+        preNode = node
+        _findMode(node.right)
+    }
+
+    _findMode(root)
+
+    return result
+};
+```
