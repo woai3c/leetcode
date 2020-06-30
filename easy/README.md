@@ -70,4 +70,7 @@
 * [三角形的最大周长](https://github.com/woai3c/leetcode/blob/master/easy/largest-perimeter-triangle.md)
 * [有效的字母异位词](https://github.com/woai3c/leetcode/blob/master/easy/valid-anagram.md)
 * [二叉搜索树中的众数](https://github.com/woai3c/leetcode/blob/master/easy/find-mode-in-binary-search-tree.md)
-
+* [二叉树中第二小的节点](https://github.com/woai3c/leetcode/blob/master/easy/second-minimum-node-in-a-binary-tree.md)
+* [最大子序和](https://github.com/woai3c/leetcode/blob/master/easy/maximum-subarray.md)
+* [多数元素](https://github.com/woai3c/leetcode/blob/master/easy/majority-element.md)
+* [移除链表元素](https://github.com/woai3c/leetcode/blob/master/easy/remove-linked-list-elements.md)
