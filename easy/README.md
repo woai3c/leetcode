@@ -77,3 +77,5 @@
 * [二叉树的堂兄弟节点](https://github.com/woai3c/leetcode/blob/master/easy/cousins-in-binary-tree.md)
 * [比较含退格的字符串](https://github.com/woai3c/leetcode/blob/master/easy/backspace-string-compare.md)
 * [移动石子直到连续](https://github.com/woai3c/leetcode/blob/master/easy/moving-stones-until-consecutive.md)
+* [28. 实现 strStr()](https://github.com/woai3c/leetcode/blob/master/easy/implement-strstr.md)
+* [747. 至少是其他数字两倍的最大数](https://github.com/woai3c/leetcode/blob/master/easy/largest-number-at-least-twice-of-others.md)
