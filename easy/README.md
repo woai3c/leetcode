@@ -80,3 +80,4 @@
 * [实现 strStr()](https://github.com/woai3c/leetcode/blob/master/easy/implement-strstr.md)
 * [至少是其他数字两倍的最大数](https://github.com/woai3c/leetcode/blob/master/easy/largest-number-at-least-twice-of-others.md)
 * [将数组分成和相等的三个部分](https://github.com/woai3c/leetcode/blob/master/easy/partition-array-into-three-parts-with-equal-sum.md)
+* [长按键入](https://github.com/woai3c/leetcode/blob/master/easy/long-pressed-name.md)
