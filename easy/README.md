@@ -83,3 +83,5 @@
 * [长按键入](https://github.com/woai3c/leetcode/blob/master/easy/long-pressed-name.md)
 * [有效的回旋镖](https://github.com/woai3c/leetcode/blob/master/easy/valid-boomerang.md)
 * [总持续时间可被 60 整除的歌曲](https://github.com/woai3c/leetcode/blob/master/easy/pairs-of-songs-with-total-durations-divisible-by-60.md)
+* [检查整数及其两倍数是否存在](https://github.com/woai3c/leetcode/blob/master/easy/check-if-n-and-its-double-exist.md)
+* [有效的完全平方数](https://github.com/woai3c/leetcode/blob/master/easy/valid-perfect-square.md)
