@@ -11,3 +11,5 @@
 * [数组中的第K个最大元素](https://github.com/woai3c/leetcode/blob/master/medium/kth-largest-element-in-an-array.md)
 * [搜索二维矩阵 II](https://github.com/woai3c/leetcode/blob/master/medium/search-a-2d-matrix-ii.md)
 * [翻转字符串里的单词](https://github.com/woai3c/leetcode/blob/master/medium/reverse-words-in-a-string.md)
+* [只出现一次的数字 III](https://github.com/woai3c/leetcode/blob/master/medium/single-number-iii.md)
+* [二叉搜索树迭代器](https://github.com/woai3c/leetcode/blob/master/medium/binary-search-tree-iterator.md)
