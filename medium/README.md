@@ -13,3 +13,5 @@
 * [翻转字符串里的单词](https://github.com/woai3c/leetcode/blob/master/medium/reverse-words-in-a-string.md)
 * [只出现一次的数字 III](https://github.com/woai3c/leetcode/blob/master/medium/single-number-iii.md)
 * [二叉搜索树迭代器](https://github.com/woai3c/leetcode/blob/master/medium/binary-search-tree-iterator.md)
+* [剑指 Offer 64. 求1+2+…+n](https://github.com/woai3c/leetcode/blob/master/medium/qiu-12n-lcof.md)
+* [子矩形查询](https://github.com/woai3c/leetcode/blob/master/medium/subrectangle-queries.md)
