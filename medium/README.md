@@ -17,3 +17,4 @@
 * [子矩形查询](https://github.com/woai3c/leetcode/blob/master/medium/subrectangle-queries.md)
 * [从中序与后序遍历序列构造二叉树](https://github.com/woai3c/leetcode/blob/master/medium/construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [面试题 04.08. 首个共同祖先](https://github.com/woai3c/leetcode/blob/master/medium/first-common-ancestor-lcci.md)
+* [面试题 16.01. 交换数字](https://github.com/woai3c/leetcode/blob/master/medium/swap-numbers-lcci.md)
