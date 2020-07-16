@@ -18,3 +18,5 @@
 * [从中序与后序遍历序列构造二叉树](https://github.com/woai3c/leetcode/blob/master/medium/construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [面试题 04.08. 首个共同祖先](https://github.com/woai3c/leetcode/blob/master/medium/first-common-ancestor-lcci.md)
 * [面试题 16.01. 交换数字](https://github.com/woai3c/leetcode/blob/master/medium/swap-numbers-lcci.md)
+* [找出克隆二叉树中的相同节点](https://github.com/woai3c/leetcode/blob/master/medium/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.md)
+* [统计作战单位数](https://github.com/woai3c/leetcode/blob/master/medium/count-number-of-teams.md)
