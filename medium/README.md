@@ -20,3 +20,4 @@
 * [面试题 16.01. 交换数字](https://github.com/woai3c/leetcode/blob/master/medium/swap-numbers-lcci.md)
 * [找出克隆二叉树中的相同节点](https://github.com/woai3c/leetcode/blob/master/medium/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.md)
 * [统计作战单位数](https://github.com/woai3c/leetcode/blob/master/medium/count-number-of-teams.md)
+* [祖父节点值为偶数的节点和](https://github.com/woai3c/leetcode/blob/master/medium/sum-of-nodes-with-even-valued-grandparent.md)
