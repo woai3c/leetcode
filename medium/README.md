@@ -25,3 +25,7 @@
 * [特定深度节点链表](https://github.com/woai3c/leetcode/blob/master/medium/list-of-depth-lcci.md)
 * [用户分组](https://github.com/woai3c/leetcode/blob/master/medium/group-the-people-given-the-group-size-they-belong-to.md)
 * [层数最深叶子节点的和](https://github.com/woai3c/leetcode/blob/master/medium/deepest-leaves-sum.md)
+* [查询带键的排列](https://github.com/woai3c/leetcode/blob/master/medium/queries-on-a-permutation-with-key.md)
+* [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/woai3c/leetcode/blob/master/medium/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.md)
+* [面试题 01.07. 旋转矩阵](https://github.com/woai3c/leetcode/blob/master/medium/rotate-matrix-lcci.md)
+* [螺旋矩阵 II](https://github.com/woai3c/leetcode/blob/master/medium/spiral-matrix-ii.md)
