@@ -35,3 +35,6 @@
 * [面试题 16.02. 单词频率](https://github.com/woai3c/leetcode/blob/master/medium/words-frequency-lcci.md)
 * [从二叉搜索树到更大和树](https://github.com/woai3c/leetcode/blob/master/medium/binary-search-tree-to-greater-sum-tree.md)
 * [括号生成](https://github.com/woai3c/leetcode/blob/master/medium/generate-parentheses.md)
+* [不同的二叉搜索树 II](https://github.com/woai3c/leetcode/blob/master/medium/unique-binary-search-trees-ii.md)
+* [不同的二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/unique-binary-search-trees.md)
+* [所有可能的满二叉树](https://github.com/woai3c/leetcode/blob/master/medium/all-possible-full-binary-trees.md)
