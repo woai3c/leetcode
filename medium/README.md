@@ -38,3 +38,5 @@
 * [不同的二叉搜索树 II](https://github.com/woai3c/leetcode/blob/master/medium/unique-binary-search-trees-ii.md)
 * [不同的二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/unique-binary-search-trees.md)
 * [所有可能的满二叉树](https://github.com/woai3c/leetcode/blob/master/medium/all-possible-full-binary-trees.md)
+* [寻找旋转排序数组中的最小值](https://github.com/woai3c/leetcode/blob/master/medium/find-minimum-in-rotated-sorted-array.md)
+* [生命游戏](https://github.com/woai3c/leetcode/blob/master/medium/game-of-life.md)
