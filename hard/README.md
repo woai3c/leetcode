@@ -2,3 +2,5 @@
 * [N皇后](https://github.com/woai3c/leetcode/blob/master/hard/N-Queens.md)
 * [滑动窗口最大值](https://github.com/woai3c/leetcode/blob/master/hard/sliding-window-maximum.md)
 * [找旋转排序数组中的最小值 II](https://github.com/woai3c/leetcode/blob/master/hard/find-minimum-in-rotated-sorted-array-ii.md)
+* [做菜顺序](https://github.com/woai3c/leetcode/blob/master/hard/reducing-dishes.md)
+* [从先序遍历还原二叉树](https://github.com/woai3c/leetcode/blob/master/hard/recover-a-tree-from-preorder-traversal.md)
