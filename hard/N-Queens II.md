@@ -1,3 +1,4 @@
+# [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
 n 皇后问题研究的是如何将 n 个皇后放置在 n×n 的棋盘上，并且使皇后彼此之间不能相互攻击。
 
 ![img](https://github.com/woai3c/leetcode/blob/master/imgs/8-queens.png)
@@ -7,11 +8,11 @@ n 皇后问题研究的是如何将 n 个皇后放置在 n×n 的棋盘上，并
 给定一个整数 n，返回 n 皇后不同的解决方案的数量。
 
 示例:
-
+```
 输入: 4
 输出: 2
 解释: 4 皇后问题存在如下两个不同的解法。
-```
+
 [
  [".Q..",  // 解法 1
   "...Q",
@@ -25,81 +26,55 @@ n 皇后问题研究的是如何将 n 个皇后放置在 n×n 的棋盘上，并
 ]
 ```
 
-## JavaScript实现
-#### 实现1
-思路:https://blog.csdn.net/The_star_is_at/article/details/80323066
-```
-let count
-
-function getQueenNums(row, ld, rd, upperlim) {
-    if (row != upperlim) {  
-        let pos = upperlim & (~(row | ld | rd))
-        
-        while (pos) {  
-            let p = pos & -pos
-            pos -= p
-            getQueenNums(row | p, (ld | p) << 1, (rd | p) >> 1, upperlim)
-        }  
-    }  
-    else {
-        count++
-    } 
-}
-
+## 解法
+N 皇后在放置的时候要考虑每个皇后在纵、横、斜线一共 8 个方向上不能同时存在其他皇后。
+### 实现一
+回溯
+```js
 /**
  * @param {number} n
  * @return {number}
  */
-var totalNQueens = function(n) {
-    let upperlim = (1 << n) - 1
-    count = 0
-    getQueenNums(0, 0, 0, upperlim)
-    
-    return count
-};
+ var totalNQueens = function(n) {
+    let result = 0
+    const path = [] // 用来放置皇后的数组
 
-```
-
-#### 实现2
-思路：https://blog.csdn.net/you_will_know_me/article/details/78419088
-
-实现1和实现2其实是一样的，只不过一个用数组作比较一个用位作比较。
-```
-let count
-let arry = []
-
-function test(row, col){
-	let i = 0
-	while (i < row) {
-		if(arry[i] == col || Math.abs(row - i) == Math.abs(arry[i] - col)) {
-            return false
+    function dfs(row) {
+        // 放置完 n 个皇后
+        if (row == n) return result++
+        for (let col = 0; col < n; col++) {
+            path[row] = col
+            // 横、竖、斜三者不能相同，如果有一个相同则跳过
+            if (judge(path, row)) continue
+            // 不冲突则继续放置下一个皇后
+            dfs(row + 1)
         }
-		i++				 
-	}
-	return true
-}
- 
-function getQueenNum(row, n) {
-	let col
-	if(row < n) {
-		for(col = 0; col < n; col++) {
-            if(test(row, col)) {
-				arry[row] = col		
-				getQueenNum(row + 1, n)	 
-			}
-        }	
-	} else {
-		count++
-	}
-}
+    }
 
-/**
- * @param {number} n
- * @return {number}
- */
-var totalNQueens = function(n) {
-    count = 0
-    getQueenNum(0, n)
-    return count
+    dfs(0)
+    return result
 };
+
+function judge(path, curRow) {
+    for(let row = 0; row < curRow; row++) {
+        // 主对角线 由左上至右下的对角线 同一主对角线上的 row - col 差相同
+        // 次对角线 右上至左下的对角线 同一次对角线上的 row + col 和相同
+        // 符合以下三个条件之一，则冲突
+        // if(
+        //     path[row] == path[curRow] 同列
+        //     || (row - path[row] == curRow - path[curRow]) 主对角线相同
+        //     || (path[row] + row == path[curRow] + curRow) 次对角线相同
+        // ) {
+        //     return true
+        // }
+
+        // 使用下列方法判断冲突更加方便
+        // 通过观察可以发现，同一对角线上的每个点，它们的行相减的差值等于列相减的差值
+        if(path[row] == path[curRow] || Math.abs(curRow - row) == Math.abs(path[curRow] - path[row])) {
+            return true
+        }
+    }
+
+    return false
+}
 ```
