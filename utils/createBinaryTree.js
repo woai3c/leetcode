@@ -33,7 +33,7 @@ function subCreateBinaryTree(arry) {
     let tempIndex = 2 * index + 1 - skip
     const tempNode1 = arry[tempIndex] !== null? new TreeNode(arry[tempIndex]) : null
     tempIndex++
-    const tempNode2 = arry[tempIndex] !== null? new TreeNode(arry[tempIndex]) : null
+    const tempNode2 = arry[tempIndex] !== null && arry[tempIndex] !== undefined? new TreeNode(arry[tempIndex]) : null
 
     node.left = tempNode1
     node.right = tempNode2
