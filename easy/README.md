@@ -87,3 +87,4 @@
 * [有效的完全平方数](https://github.com/woai3c/leetcode/blob/master/easy/valid-perfect-square.md)
 * [剑指 Offer 61. 扑克牌中的顺子](https://github.com/woai3c/leetcode/blob/master/easy/bu-ke-pai-zhong-de-shun-zi-lcof.md)
 * [数组形式的整数加法](https://github.com/woai3c/leetcode/blob/master/easy/add-to-array-form-of-integer.md)
+* [除数博弈](https://github.com/woai3c/leetcode/blob/master/easy/divisor-game.md)
