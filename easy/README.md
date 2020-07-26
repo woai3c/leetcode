@@ -88,3 +88,5 @@
 * [剑指 Offer 61. 扑克牌中的顺子](https://github.com/woai3c/leetcode/blob/master/easy/bu-ke-pai-zhong-de-shun-zi-lcof.md)
 * [数组形式的整数加法](https://github.com/woai3c/leetcode/blob/master/easy/add-to-array-form-of-integer.md)
 * [除数博弈](https://github.com/woai3c/leetcode/blob/master/easy/divisor-game.md)
+* [两数之和](https://github.com/woai3c/leetcode/blob/master/easy/two-sum.md)
+* [回文数](https://github.com/woai3c/leetcode/blob/master/easy/palindrome-number.md)
