@@ -5,3 +5,5 @@
 * [做菜顺序](https://github.com/woai3c/leetcode/blob/master/hard/reducing-dishes.md)
 * [从先序遍历还原二叉树](https://github.com/woai3c/leetcode/blob/master/hard/recover-a-tree-from-preorder-traversal.md)
 * [二叉树的后序遍历](https://github.com/woai3c/leetcode/blob/master/hard/binary-tree-postorder-traversal.md)
+* [寻找两个正序数组的中位数](https://github.com/woai3c/leetcode/blob/master/hard/median-of-two-sorted-arrays.md)
+* [正则表达式匹配](https://github.com/woai3c/leetcode/blob/master/hard/regular-expression-matching.md)
