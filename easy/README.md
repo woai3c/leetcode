@@ -90,3 +90,5 @@
 * [除数博弈](https://github.com/woai3c/leetcode/blob/master/easy/divisor-game.md)
 * [两数之和](https://github.com/woai3c/leetcode/blob/master/easy/two-sum.md)
 * [回文数](https://github.com/woai3c/leetcode/blob/master/easy/palindrome-number.md)
+* [罗马数字转整数](https://github.com/woai3c/leetcode/blob/master/easy/roman-to-integer.md)
+* [合并两个有序链表](https://github.com/woai3c/leetcode/blob/master/easy/merge-two-sorted-lists.md)
