@@ -47,3 +47,4 @@
 * [字符串转换整数 (atoi)](https://github.com/woai3c/leetcode/blob/master/medium/string-to-integer-atoi.md)
 * [盛最多水的容器](https://github.com/woai3c/leetcode/blob/master/medium/container-with-most-water.md)
 * [整数转罗马数字](https://github.com/woai3c/leetcode/blob/master/medium/integer-to-roman.md)
+* [三数之和](https://github.com/woai3c/leetcode/blob/master/medium/3sum.md)
