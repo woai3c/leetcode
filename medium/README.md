@@ -48,3 +48,4 @@
 * [盛最多水的容器](https://github.com/woai3c/leetcode/blob/master/medium/container-with-most-water.md)
 * [整数转罗马数字](https://github.com/woai3c/leetcode/blob/master/medium/integer-to-roman.md)
 * [三数之和](https://github.com/woai3c/leetcode/blob/master/medium/3sum.md)
+* [最接近的三数之和](https://github.com/woai3c/leetcode/blob/master/medium/3sum-closest.md)
