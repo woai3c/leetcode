@@ -50,3 +50,4 @@
 * [三数之和](https://github.com/woai3c/leetcode/blob/master/medium/3sum.md)
 * [最接近的三数之和](https://github.com/woai3c/leetcode/blob/master/medium/3sum-closest.md)
 * [电话号码的字母组合](https://github.com/woai3c/leetcode/blob/master/medium/letter-combinations-of-a-phone-number.md)
+* [四数之和](https://github.com/woai3c/leetcode/blob/master/medium/4sum.md)
