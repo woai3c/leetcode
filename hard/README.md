@@ -7,3 +7,4 @@
 * [二叉树的后序遍历](https://github.com/woai3c/leetcode/blob/master/hard/binary-tree-postorder-traversal.md)
 * [寻找两个正序数组的中位数](https://github.com/woai3c/leetcode/blob/master/hard/median-of-two-sorted-arrays.md)
 * [正则表达式匹配](https://github.com/woai3c/leetcode/blob/master/hard/regular-expression-matching.md)
+* [合并K个排序链表](https://github.com/woai3c/leetcode/blob/master/hard/merge-k-sorted-lists.md)
