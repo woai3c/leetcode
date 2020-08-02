@@ -92,3 +92,5 @@
 * [回文数](https://github.com/woai3c/leetcode/blob/master/easy/palindrome-number.md)
 * [罗马数字转整数](https://github.com/woai3c/leetcode/blob/master/easy/roman-to-integer.md)
 * [合并两个有序链表](https://github.com/woai3c/leetcode/blob/master/easy/merge-two-sorted-lists.md)
+* [删除排序数组中的重复项](https://github.com/woai3c/leetcode/blob/master/easy/remove-duplicates-from-sorted-array.md)
+* [移除元素](https://github.com/woai3c/leetcode/blob/master/easy/remove-element.md)
