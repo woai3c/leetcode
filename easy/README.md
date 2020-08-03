@@ -94,3 +94,5 @@
 * [合并两个有序链表](https://github.com/woai3c/leetcode/blob/master/easy/merge-two-sorted-lists.md)
 * [删除排序数组中的重复项](https://github.com/woai3c/leetcode/blob/master/easy/remove-duplicates-from-sorted-array.md)
 * [移除元素](https://github.com/woai3c/leetcode/blob/master/easy/remove-element.md)
+* [外观数列](https://github.com/woai3c/leetcode/blob/master/easy/count-and-say.md)
+* [字符串相加](https://github.com/woai3c/leetcode/blob/master/easy/add-strings.md)
