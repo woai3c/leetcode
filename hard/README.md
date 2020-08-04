@@ -10,3 +10,4 @@
 * [合并K个排序链表](https://github.com/woai3c/leetcode/blob/master/hard/merge-k-sorted-lists.md)
 * [K 个一组翻转链表](https://github.com/woai3c/leetcode/blob/master/hard/reverse-nodes-in-k-group.md)
 * [串联所有单词的子串](https://github.com/woai3c/leetcode/blob/master/hard/substring-with-concatenation-of-all-words.md)
+* [最长有效括号](https://github.com/woai3c/leetcode/blob/master/hard/longest-valid-parentheses.md)
