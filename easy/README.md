@@ -96,3 +96,5 @@
 * [移除元素](https://github.com/woai3c/leetcode/blob/master/easy/remove-element.md)
 * [外观数列](https://github.com/woai3c/leetcode/blob/master/easy/count-and-say.md)
 * [字符串相加](https://github.com/woai3c/leetcode/blob/master/easy/add-strings.md)
+* [搜索插入位置](https://github.com/woai3c/leetcode/blob/master/easy/search-insert-position.md)
+* [加一](https://github.com/woai3c/leetcode/blob/master/easy/plus-one.md)
