@@ -55,3 +55,7 @@
 * [两两交换链表中的节点](https://github.com/woai3c/leetcode/blob/master/medium/swap-nodes-in-pairs.md)
 * [两数相除](https://github.com/woai3c/leetcode/blob/master/medium/divide-two-integers.md)
 * [下一个排列](https://github.com/woai3c/leetcode/blob/master/medium/submissions.md)
+* [搜索旋转排序数组](https://github.com/woai3c/leetcode/blob/master/medium/search-in-rotated-sorted-array.md)
+* [在排序数组中查找元素的第一个和最后一个位置](https://github.com/woai3c/leetcode/blob/master/medium/find-first-and-last-position-of-element-in-sorted-array.md)
+* [有效的数独](https://github.com/woai3c/leetcode/blob/master/medium/valid-sudoku.md)
+* [组合总和](https://github.com/woai3c/leetcode/blob/master/medium/combination-sum.md)
