@@ -59,3 +59,4 @@
 * [在排序数组中查找元素的第一个和最后一个位置](https://github.com/woai3c/leetcode/blob/master/medium/find-first-and-last-position-of-element-in-sorted-array.md)
 * [有效的数独](https://github.com/woai3c/leetcode/blob/master/medium/valid-sudoku.md)
 * [组合总和](https://github.com/woai3c/leetcode/blob/master/medium/combination-sum.md)
+* [字符串相乘](https://github.com/woai3c/leetcode/blob/master/medium/multiply-strings.md)
