@@ -13,3 +13,4 @@
 * [最长有效括号](https://github.com/woai3c/leetcode/blob/master/hard/longest-valid-parentheses.md)
 * [解数独](https://github.com/woai3c/leetcode/blob/master/hard/sudoku-solver.md)
 * [缺失的第一个正数](https://github.com/woai3c/leetcode/blob/master/hard/first-missing-positive.md)
+* [接雨水](https://github.com/woai3c/leetcode/blob/master/hard/trapping-rain-water.md)
