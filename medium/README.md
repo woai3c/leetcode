@@ -62,3 +62,4 @@
 * [字符串相乘](https://github.com/woai3c/leetcode/blob/master/medium/multiply-strings.md)
 * [全排列 II](https://github.com/woai3c/leetcode/blob/master/medium/permutations-ii.md)
 * [字母异位词分组](https://github.com/woai3c/leetcode/blob/master/medium/group-anagrams.md)
+* [Pow(x, n)](https://github.com/woai3c/leetcode/blob/master/medium/powx-n.md)
