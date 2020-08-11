@@ -64,3 +64,4 @@
 * [字母异位词分组](https://github.com/woai3c/leetcode/blob/master/medium/group-anagrams.md)
 * [Pow(x, n)](https://github.com/woai3c/leetcode/blob/master/medium/powx-n.md)
 * [螺旋矩阵](https://github.com/woai3c/leetcode/blob/master/medium/spiral-matrix.md)
+* [跳跃游戏](https://github.com/woai3c/leetcode/blob/master/medium/jump-game.md)
