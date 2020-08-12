@@ -65,3 +65,4 @@
 * [Pow(x, n)](https://github.com/woai3c/leetcode/blob/master/medium/powx-n.md)
 * [螺旋矩阵](https://github.com/woai3c/leetcode/blob/master/medium/spiral-matrix.md)
 * [跳跃游戏](https://github.com/woai3c/leetcode/blob/master/medium/jump-game.md)
+* [合并区间](https://github.com/woai3c/leetcode/blob/master/medium/merge-intervals.md)
