@@ -67,3 +67,5 @@
 * [跳跃游戏](https://github.com/woai3c/leetcode/blob/master/medium/jump-game.md)
 * [合并区间](https://github.com/woai3c/leetcode/blob/master/medium/merge-intervals.md)
 * [第k个排列](https://github.com/woai3c/leetcode/blob/master/medium/permutation-sequence.md)
+* [不同路径](https://github.com/woai3c/leetcode/blob/master/medium/unique-paths.md)
+* [旋转链表](https://github.com/woai3c/leetcode/blob/master/medium/rotate-list.md)
