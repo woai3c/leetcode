@@ -70,3 +70,4 @@
 * [不同路径](https://github.com/woai3c/leetcode/blob/master/medium/unique-paths.md)
 * [旋转链表](https://github.com/woai3c/leetcode/blob/master/medium/rotate-list.md)
 * [不同路径 II](https://github.com/woai3c/leetcode/blob/master/medium/unique-paths-ii.md)
+* [最小路径和](https://github.com/woai3c/leetcode/blob/master/medium/minimum-path-sum.md)
