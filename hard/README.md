@@ -18,3 +18,4 @@
 * [跳跃游戏 II](https://github.com/woai3c/leetcode/blob/master/hard/jump-game-ii.md)
 * [插入区间](https://github.com/woai3c/leetcode/blob/master/hard/insert-interval.md)
 * [有效数字](https://github.com/woai3c/leetcode/blob/master/hard/valid-number.md)
+* [文本左右对齐](https://github.com/woai3c/leetcode/blob/master/hard/text-justification.md)
