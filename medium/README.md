@@ -71,3 +71,7 @@
 * [旋转链表](https://github.com/woai3c/leetcode/blob/master/medium/rotate-list.md)
 * [不同路径 II](https://github.com/woai3c/leetcode/blob/master/medium/unique-paths-ii.md)
 * [最小路径和](https://github.com/woai3c/leetcode/blob/master/medium/minimum-path-sum.md)
+* [组合](https://github.com/woai3c/leetcode/blob/master/medium/combinations.md)
+* [格雷编码](https://github.com/woai3c/leetcode/blob/master/medium/gray-code.md)
+* [简化路径](https://github.com/woai3c/leetcode/blob/master/medium/simplify-path.md)
+* [矩阵置零](https://github.com/woai3c/leetcode/blob/master/medium/set-matrix-zeroes.md)
