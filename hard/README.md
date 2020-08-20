@@ -20,3 +20,4 @@
 * [有效数字](https://github.com/woai3c/leetcode/blob/master/hard/valid-number.md)
 * [文本左右对齐](https://github.com/woai3c/leetcode/blob/master/hard/text-justification.md)
 * [编辑距离](https://github.com/woai3c/leetcode/blob/master/hard/edit-distance.md)
+* [最小覆盖子串](https://github.com/woai3c/leetcode/blob/master/hard/minimum-window-substring.md)
