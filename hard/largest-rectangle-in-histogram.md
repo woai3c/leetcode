@@ -39,3 +39,30 @@ var largestRectangleArea = function(heights) {
 };
 ```
 ### 解二
+[详解单调栈，🤷‍♀️必须秒懂！](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/xiang-jie-dan-diao-zhan-bi-xu-miao-dong-by-sweetie/)
+```js
+/**
+ * @param {number[]} heights
+ * @return {number}
+ */
+ var largestRectangleArea = function(heights) {
+    if (!heights.length) return 0
+    heights.unshift(0)
+    heights.push(0)
+    const stack = []
+    let top = -1 // 栈顶索引
+    let max = 0 // 最大值
+    for (let i = 0, len = heights.length; i < len; i++) {
+        while (stack.length && heights[stack[top]] > heights[i]) {
+            const index = stack.pop()
+            top--
+            max = Math.max(max, (i - stack[top] - 1) * heights[index])
+        }
+
+        stack.push(i)
+        top++
+    }
+    
+    return max
+};
+```
