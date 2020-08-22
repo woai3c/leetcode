@@ -21,3 +21,4 @@
 * [文本左右对齐](https://github.com/woai3c/leetcode/blob/master/hard/text-justification.md)
 * [编辑距离](https://github.com/woai3c/leetcode/blob/master/hard/edit-distance.md)
 * [最小覆盖子串](https://github.com/woai3c/leetcode/blob/master/hard/minimum-window-substring.md)
+* [柱状图中最大的矩形](https://github.com/woai3c/leetcode/blob/master/hard/largest-rectangle-in-histogram.md)
