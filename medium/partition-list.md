@@ -9,7 +9,7 @@
 输出: 1->2->2->4->3->5
 ```
 ## 解法
-用两个额外的链表来收集原来链表的值，一个链表收集小于 x 的值，另一个收集大于等于 x 的值。最后再拼在一起。
+双指针
 ```js
 /**
  * Definition for singly-linked list.
@@ -31,16 +31,18 @@ var partition = function(head, x) {
     while (head) {
         const val = head.val
         if (head.val < x) {
-            node1.next = new ListNode(val)
+            node1.next = head
             node1 = node1.next
         } else {
-            node2.next = new ListNode(val)
+            node2.next = head
             node2 = node2.next
         }
 
         head = head.next
     }
 
+    // 一定要将 node2.next 设为 null，否则会变成循环链表
+    node2.next = null
     node1.next = sentry2.next
     return sentry1.next
 };
