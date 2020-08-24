@@ -81,3 +81,4 @@
 * [删除排序数组中的重复项 II](https://github.com/woai3c/leetcode/blob/master/medium/remove-duplicates-from-sorted-array-ii.md)
 * [搜索旋转排序数组 II](https://github.com/woai3c/leetcode/blob/master/medium/search-in-rotated-sorted-array-ii.md)
 * [删除排序链表中的重复元素 II](https://github.com/woai3c/leetcode/blob/master/medium/remove-duplicates-from-sorted-list-ii.md)
+* [分隔链表](https://github.com/woai3c/leetcode/blob/master/medium/partition-list.md)
