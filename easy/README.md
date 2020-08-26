@@ -99,3 +99,4 @@
 * [搜索插入位置](https://github.com/woai3c/leetcode/blob/master/easy/search-insert-position.md)
 * [加一](https://github.com/woai3c/leetcode/blob/master/easy/plus-one.md)
 * [删除排序链表中的重复元素](https://github.com/woai3c/leetcode/blob/master/easy/remove-duplicates-from-sorted-list.md)
+* [合并两个有序数组](https://github.com/woai3c/leetcode/blob/master/easy/merge-sorted-array.md)
