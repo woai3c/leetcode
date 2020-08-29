@@ -85,3 +85,4 @@
 * [子集 II](https://github.com/woai3c/leetcode/blob/master/medium/subsets-ii.md)
 * [子集](https://github.com/woai3c/leetcode/blob/master/medium/subsets.md)
 * [解码方法](https://github.com/woai3c/leetcode/blob/master/medium/decode-ways.md)
+* [反转链表 II](https://github.com/woai3c/leetcode/blob/master/medium/reverse-linked-list-ii.md)
