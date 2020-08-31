@@ -87,3 +87,4 @@
 * [解码方法](https://github.com/woai3c/leetcode/blob/master/medium/decode-ways.md)
 * [反转链表 II](https://github.com/woai3c/leetcode/blob/master/medium/reverse-linked-list-ii.md)
 * [复原IP地址](https://github.com/woai3c/leetcode/blob/master/medium/restore-ip-addresses.md)
+* [二叉树的中序遍历](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-inorder-traversal.md)
