@@ -100,3 +100,6 @@
 * [加一](https://github.com/woai3c/leetcode/blob/master/easy/plus-one.md)
 * [删除排序链表中的重复元素](https://github.com/woai3c/leetcode/blob/master/easy/remove-duplicates-from-sorted-list.md)
 * [合并两个有序数组](https://github.com/woai3c/leetcode/blob/master/easy/merge-sorted-array.md)
+* [相同的树](https://github.com/woai3c/leetcode/blob/master/easy/same-tree.md)
+* [对称二叉树](https://github.com/woai3c/leetcode/blob/master/easy/symmetric-tree.md)
+* [二叉树的最大深度](https://github.com/woai3c/leetcode/blob/master/easy/maximum-depth-of-binary-tree.md)
