@@ -25,3 +25,4 @@
 * [最大矩形](https://github.com/woai3c/leetcode/blob/master/hard/maximal-rectangle.md)
 * [扰乱字符串](https://github.com/woai3c/leetcode/blob/master/hard/scramble-string.md)
 * [交错字符串](https://github.com/woai3c/leetcode/blob/master/hard/interleaving-string.md)
+* [恢复二叉搜索树](https://github.com/woai3c/leetcode/blob/master/hard/recover-binary-search-tree.md)
