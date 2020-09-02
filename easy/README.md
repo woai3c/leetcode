@@ -103,3 +103,5 @@
 * [相同的树](https://github.com/woai3c/leetcode/blob/master/easy/same-tree.md)
 * [对称二叉树](https://github.com/woai3c/leetcode/blob/master/easy/symmetric-tree.md)
 * [二叉树的最大深度](https://github.com/woai3c/leetcode/blob/master/easy/maximum-depth-of-binary-tree.md)
+* [二叉树的层次遍历 II](https://github.com/woai3c/leetcode/blob/master/easy/binary-tree-level-order-traversal-ii.md)
+* [将有序数组转换为二叉搜索树](https://github.com/woai3c/leetcode/blob/master/easy/convert-sorted-array-to-binary-search-tree.md)
