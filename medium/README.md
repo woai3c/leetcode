@@ -88,3 +88,8 @@
 * [反转链表 II](https://github.com/woai3c/leetcode/blob/master/medium/reverse-linked-list-ii.md)
 * [复原IP地址](https://github.com/woai3c/leetcode/blob/master/medium/restore-ip-addresses.md)
 * [二叉树的中序遍历](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-inorder-traversal.md)
+* [验证二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/validate-binary-search-tree.md)
+* [二叉树的层序遍历](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-level-order-traversal.md)
+* [二叉树的锯齿形层次遍历](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-zigzag-level-order-traversal.md)
+* [从前序与中序遍历序列构造二叉树](https://github.com/woai3c/leetcode/blob/master/medium/construct-binary-tree-from-preorder-and-inorder-traversal.md)
+* [有序链表转换二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/convert-sorted-list-to-binary-search-tree.md)
