@@ -105,3 +105,6 @@
 * [二叉树的最大深度](https://github.com/woai3c/leetcode/blob/master/easy/maximum-depth-of-binary-tree.md)
 * [二叉树的层次遍历 II](https://github.com/woai3c/leetcode/blob/master/easy/binary-tree-level-order-traversal-ii.md)
 * [将有序数组转换为二叉搜索树](https://github.com/woai3c/leetcode/blob/master/easy/convert-sorted-array-to-binary-search-tree.md)
+* [平衡二叉树](https://github.com/woai3c/leetcode/blob/master/easy/balanced-binary-tree.md)
+* [买卖股票的最佳时机](https://github.com/woai3c/leetcode/blob/master/easy/best-time-to-buy-and-sell-stock.md)
+* [买卖股票的最佳时机 II](https://github.com/woai3c/leetcode/blob/master/easy/best-time-to-buy-and-sell-stock-ii.md)
