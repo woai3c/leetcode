@@ -95,3 +95,9 @@
 * [有序链表转换二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/convert-sorted-list-to-binary-search-tree.md)
 * [路径总和 II](https://github.com/woai3c/leetcode/blob/master/medium/path-sum-ii.md)
 * [二叉树展开为链表](https://github.com/woai3c/leetcode/blob/master/medium/flatten-binary-tree-to-linked-list.md)
+* [最佳买卖股票时机含冷冻期](https://github.com/woai3c/leetcode/blob/master/medium/best-time-to-buy-and-sell-stock-with-cooldown.md)
+* [买卖股票的最佳时机含手续费](https://github.com/woai3c/leetcode/blob/master/medium/best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+* [股票价格跨度](https://github.com/woai3c/leetcode/blob/master/medium/online-stock-span.md)
+* [填充每个节点的下一个右侧节点指针](https://github.com/woai3c/leetcode/blob/master/medium/populating-next-right-pointers-in-each-node.md)
+* [填充每个节点的下一个右侧节点指针 II](https://github.com/woai3c/leetcode/blob/master/medium/populating-next-right-pointers-in-each-node-ii.md)
+
