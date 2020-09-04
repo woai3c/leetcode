@@ -26,3 +26,6 @@
 * [扰乱字符串](https://github.com/woai3c/leetcode/blob/master/hard/scramble-string.md)
 * [交错字符串](https://github.com/woai3c/leetcode/blob/master/hard/interleaving-string.md)
 * [恢复二叉搜索树](https://github.com/woai3c/leetcode/blob/master/hard/recover-binary-search-tree.md)
+* [买卖股票的最佳时机 III](https://github.com/woai3c/leetcode/blob/master/hard/best-time-to-buy-and-sell-stock-iii.md)
+* [买卖股票的最佳时机 IV](https://github.com/woai3c/leetcode/blob/master/hard/best-time-to-buy-and-sell-stock-iv.md)
+* [不同的子序列](https://github.com/woai3c/leetcode/blob/master/hard/distinct-subsequences.md)
