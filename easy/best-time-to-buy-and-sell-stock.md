@@ -21,7 +21,8 @@
 解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
 ```
 ## 解法
-[一个通用方法团灭 6 道股票问题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/yi-ge-tong-yong-fang-fa-tuan-mie-6-dao-gu-piao-wen/)
+* [一个通用方法团灭 6 道股票问题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/yi-ge-tong-yong-fang-fa-tuan-mie-6-dao-gu-piao-wen/)
+* [股票问题系列通解（转载翻译）](https://leetcode-cn.com/circle/article/qiAgHn/)
 ### 解一
 购买价格即是尽可能的找数组的最小值，求最大利润就是在购买价格后面的数中找一个和购买价格差值最大的数。
 ```js
