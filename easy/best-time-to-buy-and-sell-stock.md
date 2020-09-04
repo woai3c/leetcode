@@ -21,6 +21,8 @@
 解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
 ```
 ## 解法
+[一个通用方法团灭 6 道股票问题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/yi-ge-tong-yong-fang-fa-tuan-mie-6-dao-gu-piao-wen/)
+### 解一
 购买价格即是尽可能的找数组的最小值，求最大利润就是在购买价格后面的数中找一个和购买价格差值最大的数。
 ```js
 /**
@@ -39,5 +41,49 @@ var maxProfit = function(prices) {
     }
 
     return profit
+};
+```
+### 解二
+DP
+```js
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+var maxProfit = function(prices) {
+    if (!prices.length) return 0
+    const dp = []
+    const len = prices.length
+    for (let i = 0; i < len; i++) {
+        dp.push(new Array(2))
+    }
+
+    dp[0][0] = 0 // 由于一笔交易需要买入卖出才有利润，所以第 0 天没有利润
+    dp[0][1] = -prices[0] // 第 0 天买入，由于利润此时为 0，所以 0 - prices[0] = -prices[0]
+    for (let i = 1; i < len; i++) {
+        dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1] + prices[i])
+        // T[i][1][1] = max(T[i - 1][1][1], T[i - 1][0][0] - prices[i]) = max(T[i - 1][1][1], -prices[i])
+        dp[i][1] = Math.max(dp[i - 1][1], -prices[i])
+    }
+
+    return dp[len - 1][0]
+};
+```
+```js
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+var maxProfit = function(prices) {
+    if (!prices.length) return 0
+    const len = prices.length
+    let dp_i_0 = 0
+    let dp_i_1 = -prices[0]
+    for (let i = 1; i < len; i++) {
+        dp_i_0 = Math.max(dp_i_0, dp_i_1 + prices[i])
+        dp_i_1 = Math.max(dp_i_1, -prices[i])
+    }
+
+    return dp_i_0
 };
 ```
