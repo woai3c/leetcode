@@ -108,3 +108,6 @@
 * [平衡二叉树](https://github.com/woai3c/leetcode/blob/master/easy/balanced-binary-tree.md)
 * [买卖股票的最佳时机](https://github.com/woai3c/leetcode/blob/master/easy/best-time-to-buy-and-sell-stock.md)
 * [买卖股票的最佳时机 II](https://github.com/woai3c/leetcode/blob/master/easy/best-time-to-buy-and-sell-stock-ii.md)
+* [杨辉三角](https://github.com/woai3c/leetcode/blob/master/easy/pascals-triangle.md)
+* [杨辉三角 II](https://github.com/woai3c/leetcode/blob/master/easy/pascals-triangle-ii.md)
+* [验证回文串](https://github.com/woai3c/leetcode/blob/master/easy/valid-palindrome.md)
