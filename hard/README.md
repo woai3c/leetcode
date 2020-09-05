@@ -29,3 +29,4 @@
 * [买卖股票的最佳时机 III](https://github.com/woai3c/leetcode/blob/master/hard/best-time-to-buy-and-sell-stock-iii.md)
 * [买卖股票的最佳时机 IV](https://github.com/woai3c/leetcode/blob/master/hard/best-time-to-buy-and-sell-stock-iv.md)
 * [不同的子序列](https://github.com/woai3c/leetcode/blob/master/hard/distinct-subsequences.md)
+* [二叉树中的最大路径和](https://github.com/woai3c/leetcode/blob/master/hard/binary-tree-maximum-path-sum.md)
