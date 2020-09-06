@@ -101,3 +101,5 @@
 * [填充每个节点的下一个右侧节点指针](https://github.com/woai3c/leetcode/blob/master/medium/populating-next-right-pointers-in-each-node.md)
 * [填充每个节点的下一个右侧节点指针 II](https://github.com/woai3c/leetcode/blob/master/medium/populating-next-right-pointers-in-each-node-ii.md)
 * [三角形最小路径和](https://github.com/woai3c/leetcode/blob/master/medium/triangle.md)
+* [单词接龙](https://github.com/woai3c/leetcode/blob/master/medium/word-ladder.md)
+* [将二叉搜索树变平衡](https://github.com/woai3c/leetcode/blob/master/medium/balance-a-binary-search-tree.md)
