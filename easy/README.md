@@ -111,3 +111,4 @@
 * [杨辉三角](https://github.com/woai3c/leetcode/blob/master/easy/pascals-triangle.md)
 * [杨辉三角 II](https://github.com/woai3c/leetcode/blob/master/easy/pascals-triangle-ii.md)
 * [验证回文串](https://github.com/woai3c/leetcode/blob/master/easy/valid-palindrome.md)
+* [BiNode](https://github.com/woai3c/leetcode/blob/master/easy/binode-lcci.md)
