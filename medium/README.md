@@ -103,3 +103,4 @@
 * [三角形最小路径和](https://github.com/woai3c/leetcode/blob/master/medium/triangle.md)
 * [单词接龙](https://github.com/woai3c/leetcode/blob/master/medium/word-ladder.md)
 * [将二叉搜索树变平衡](https://github.com/woai3c/leetcode/blob/master/medium/balance-a-binary-search-tree.md)
+* [统计二叉树中好节点的数目](https://github.com/woai3c/leetcode/blob/master/medium/count-good-nodes-in-binary-tree.md)
