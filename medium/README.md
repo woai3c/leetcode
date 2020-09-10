@@ -110,3 +110,5 @@
 * [二叉树的最近公共祖先](https://github.com/woai3c/leetcode/blob/master/medium/lowest-common-ancestor-of-a-binary-tree.md)
 * [打家劫舍 III](https://github.com/woai3c/leetcode/blob/master/medium/house-robber-iii.md)
 * [二叉树的层序遍历](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-level-order-traversal.md)
+* [路径总和 III](https://github.com/woai3c/leetcode/blob/master/medium/path-sum-iii.md)
+* [序列化和反序列化二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/serialize-and-deserialize-bst.md)
