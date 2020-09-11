@@ -112,3 +112,5 @@
 * [二叉树的层序遍历](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-level-order-traversal.md)
 * [路径总和 III](https://github.com/woai3c/leetcode/blob/master/medium/path-sum-iii.md)
 * [序列化和反序列化二叉搜索树](https://github.com/woai3c/leetcode/blob/master/medium/serialize-and-deserialize-bst.md)
+* [删除二叉搜索树中的节点](https://github.com/woai3c/leetcode/blob/master/medium/delete-node-in-a-bst.md)
+* [出现次数最多的子树元素和](https://github.com/woai3c/leetcode/blob/master/medium/most-frequent-subtree-sum.md)
