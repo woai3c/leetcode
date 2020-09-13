@@ -120,3 +120,5 @@
 * [输出二叉树](https://github.com/woai3c/leetcode/blob/master/medium/print-binary-tree.md)
 * [二叉树最大宽度](https://github.com/woai3c/leetcode/blob/master/medium/maximum-width-of-binary-tree.md)
 * [二叉树剪枝](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-pruning.md)
+* [冗余连接](https://github.com/woai3c/leetcode/blob/master/medium/redundant-connection.md)
+* [二叉树中所有距离为 K 的结点](https://github.com/woai3c/leetcode/blob/master/medium/all-nodes-distance-k-in-binary-tree.md)
