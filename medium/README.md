@@ -122,3 +122,5 @@
 * [二叉树剪枝](https://github.com/woai3c/leetcode/blob/master/medium/binary-tree-pruning.md)
 * [冗余连接](https://github.com/woai3c/leetcode/blob/master/medium/redundant-connection.md)
 * [二叉树中所有距离为 K 的结点](https://github.com/woai3c/leetcode/blob/master/medium/all-nodes-distance-k-in-binary-tree.md)
+* [具有所有最深结点的最小子树](https://github.com/woai3c/leetcode/blob/master/medium/smallest-subtree-with-all-the-deepest-nodes.md)
+* [根据前序和后序遍历构造二叉树](https://github.com/woai3c/leetcode/blob/master/medium/construct-binary-tree-from-preorder-and-postorder-traversal.md)
