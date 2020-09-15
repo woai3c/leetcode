@@ -123,3 +123,5 @@
 * [两数之和 IV - 输入 BST](https://github.com/woai3c/leetcode/blob/master/easy/two-sum-iv-input-is-a-bst.md)
 * [检查平衡性](https://github.com/woai3c/leetcode/blob/master/easy/check-balance-lcci.md)
 * [叶子相似的树](https://github.com/woai3c/leetcode/blob/master/easy/leaf-similar-trees.md)
+* [两个数组的交集](https://github.com/woai3c/leetcode/blob/master/easy/intersection-of-two-arrays.md)
+* [按奇偶排序数组 II](https://github.com/woai3c/leetcode/blob/master/easy/sort-array-by-parity-ii.md)
