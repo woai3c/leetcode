@@ -125,3 +125,5 @@
 * [叶子相似的树](https://github.com/woai3c/leetcode/blob/master/easy/leaf-similar-trees.md)
 * [两个数组的交集](https://github.com/woai3c/leetcode/blob/master/easy/intersection-of-two-arrays.md)
 * [按奇偶排序数组 II](https://github.com/woai3c/leetcode/blob/master/easy/sort-array-by-parity-ii.md)
+* [距离顺序排列矩阵单元格](https://github.com/woai3c/leetcode/blob/master/easy/matrix-cells-in-distance-order.md)
+* [数组的相对排序](https://github.com/woai3c/leetcode/blob/master/easy/relative-sort-array.md)
