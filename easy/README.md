@@ -127,3 +127,6 @@
 * [按奇偶排序数组 II](https://github.com/woai3c/leetcode/blob/master/easy/sort-array-by-parity-ii.md)
 * [距离顺序排列矩阵单元格](https://github.com/woai3c/leetcode/blob/master/easy/matrix-cells-in-distance-order.md)
 * [数组的相对排序](https://github.com/woai3c/leetcode/blob/master/easy/relative-sort-array.md)
+* [根据数字二进制下 1 的数目排序](https://github.com/woai3c/leetcode/blob/master/easy/sort-integers-by-the-number-of-1-bits.md)
+* [上升下降字符串](https://github.com/woai3c/leetcode/blob/master/easy/increasing-decreasing-string.md)
+* [非递增顺序的最小子序列](https://github.com/woai3c/leetcode/blob/master/easy/minimum-subsequence-in-non-increasing-order.md)
