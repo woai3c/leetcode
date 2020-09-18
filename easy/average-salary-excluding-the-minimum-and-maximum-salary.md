@@ -37,3 +37,25 @@
 * 10^3 <= salary[i] <= 10^6
 * salary[i] 是唯一的。
 * 与真实值误差在 10^-5 以内的结果都将视为正确答案。
+## 解法
+```js
+/**
+ * @param {number[]} salary
+ * @return {number}
+ */
+var average = function(salary) {
+    let min = salary[0]
+    let max = salary[0]
+    let sum = salary[0]
+    for (let i = 1, len = salary.length; i < len; i++) {
+        sum += salary[i]
+        if (salary[i] < min) {
+            min = salary[i]
+        } else if (salary[i] > max) {
+            max = salary[i]
+        }
+    }
+
+    return (sum - min - max) / (salary.length - 2)
+};
+```
