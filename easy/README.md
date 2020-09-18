@@ -130,3 +130,6 @@
 * [根据数字二进制下 1 的数目排序](https://github.com/woai3c/leetcode/blob/master/easy/sort-integers-by-the-number-of-1-bits.md)
 * [上升下降字符串](https://github.com/woai3c/leetcode/blob/master/easy/increasing-decreasing-string.md)
 * [非递增顺序的最小子序列](https://github.com/woai3c/leetcode/blob/master/easy/minimum-subsequence-in-non-increasing-order.md)
+* [重新排列字符串](https://github.com/woai3c/leetcode/blob/master/easy/shuffle-string.md)
+* [判断能否形成等差数列](https://github.com/woai3c/leetcode/blob/master/easy/can-make-arithmetic-progression-from-sequence.md)
+* [去掉最低工资和最高工资后的工资平均值](https://github.com/woai3c/leetcode/blob/master/easy/average-salary-excluding-the-minimum-and-maximum-salary.md)
