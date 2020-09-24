@@ -128,3 +128,4 @@
 * [对链表进行插入排序](https://github.com/woai3c/leetcode/blob/master/medium/insertion-sort-list.md)
 * [排序链表](https://github.com/woai3c/leetcode/blob/master/medium/sort-list.md)
 * [子数组和排序后的区间和](https://github.com/woai3c/leetcode/blob/master/medium/range-sum-of-sorted-subarray-sums.md)
+* [煎饼排序](https://github.com/woai3c/leetcode/blob/master/medium/pancake-sorting.md)
