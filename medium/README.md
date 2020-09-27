@@ -131,3 +131,4 @@
 * [煎饼排序](https://github.com/woai3c/leetcode/blob/master/medium/pancake-sorting.md)
 * [将整数按权重排序](https://github.com/woai3c/leetcode/blob/master/medium/sort-integers-by-the-power-value.md)
 * [最接近原点的 K 个点](https://github.com/woai3c/leetcode/blob/master/medium/k-closest-points-to-origin.md)
+* [把数组排成最小的数](https://github.com/woai3c/leetcode/blob/master/medium/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md)
