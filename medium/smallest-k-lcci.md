@@ -58,3 +58,49 @@ public:
     }
 };
 ```
+归并排序只能全排列
+```c++
+class Solution {
+public:
+    vector<int> smallestK(vector<int>& arr, int k) {
+        mergeSort(arr, k);
+        return vector<int>(arr.begin(), arr.begin() + k);
+    }
+
+    void mergeSort(vector<int>& arr, int k) {
+        sort(arr, 0, arr.size() - 1, k);
+    }
+
+    void sort(vector<int>& arr, int start, int end, int k) {
+        if (start >= end) return;
+        int mid = start + (end - start) / 2;
+        sort(arr, start, mid, k);
+        sort(arr, mid + 1, end, k);
+        if (arr[mid] <= arr[mid + 1]) return;
+        merge(arr, start, mid, end);
+    }
+
+    void merge(vector<int>& arr, int start, int mid, int end) {
+        vector<int> temp;
+        int i = start, j = mid + 1;
+        int k = start;
+        while (k <= end) {
+            if (j > end) {
+                temp.push_back(arr[i++]);
+            } else if (i > mid) {
+                temp.push_back(arr[j++]);
+            } else if (arr[i] <= arr[j]) {
+                temp.push_back(arr[i++]);
+            } else {
+                temp.push_back(arr[j++]);
+            }
+
+            k++;
+        }
+
+        for (int i = 0, len = temp.size(); i < len; i++) {
+            arr[start++] = temp[i];
+        }
+    }
+};
+```
