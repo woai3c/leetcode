@@ -1,0 +1,60 @@
+# [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/)
+设计一个算法，找出数组中最小的k个数。以任意顺序返回这k个数均可。
+
+示例：
+```
+输入： arr = [1,3,5,7,2,4,6,8], k = 4
+输出： [1,2,3,4]
+```
+提示：
+
+* 0 <= len(arr) <= 100000
+* 0 <= k <= min(100000, len(arr))
+## 解法
+快排，只对前 k 个数进行排序
+```c++
+class Solution {
+public:
+    vector<int> smallestK(vector<int>& arr, int k) {
+        quickSort(arr, k);
+        return vector<int>(arr.begin(), arr.begin() + k);
+    }
+
+    void quickSort(vector<int>& arr, int k) {
+        sort(arr, 0, arr.size() - 1, k);
+    }
+
+    void sort(vector<int>& arr, int start, int end, int k) {
+        if (start >= end) return;
+        int index = segment(arr, start, end, k);
+        if (index >= k - 1) {
+            // 如果 k 小于等于 index，则只需要对 index 前面的数排序
+            sort(arr, start, index - 1, k);
+        } else {
+            // 如果 k 大于 index，说明 index 前面的数都是小于 arr[k] 的
+            // 由于可以以任意顺序返回 k 个数，所以 index 前面的数不需要排序
+            sort(arr, index + 1, end, k);
+        }
+    }
+
+    int segment(vector<int>& arr, int start, int end, int k) {
+        int val = arr[start];
+        int i = start, j = end + 1;
+        while (i < j) {
+            while (i < end && arr[++i] < val);
+            while (j > start && arr[--j] > val);
+            if (i >= j) break;
+            swap(arr, i, j);
+        }
+
+        swap(arr, start, j);
+        return j;
+    }
+
+    void swap(vector<int>& arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+};
+```
