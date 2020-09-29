@@ -104,3 +104,47 @@ public:
     }
 };
 ```
+堆排序，小顶堆，只对前 k 个数进行排序。
+```c++
+class Solution {
+public:
+    vector<int> smallestK(vector<int>& arr, int k) {
+        heapSort(arr, k);
+        return vector<int>(arr.rbegin(), arr.rbegin() + k);
+    }
+
+    void heapSort(vector<int>& arr, int k) {
+        int len = arr.size();
+        int maxIndex = len - 1;
+        for (int i = len / 2 - 1; i >= 0; i--) {
+            sink(arr, i, maxIndex);
+        }
+
+        while (maxIndex >= 0) {
+            swap(arr, 0, maxIndex);
+            maxIndex--;
+            sink(arr, 0, maxIndex);
+            if (--k == 0) return;
+        }
+    }
+
+    void sink(vector<int>& arr, int i, int maxIndex) {
+        while (i * 2 + 1 <= maxIndex) {
+            int j = i * 2 + 1;
+            if (j < maxIndex && arr[j] > arr[j + 1]) {
+                j++;
+            }
+
+            if (arr[i] < arr[j]) break;
+            swap(arr, i, j);
+            i = j;
+        }
+    }
+
+    void swap(vector<int>& arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+};
+```
