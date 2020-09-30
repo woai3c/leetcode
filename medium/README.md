@@ -133,3 +133,4 @@
 * [最接近原点的 K 个点](https://github.com/woai3c/leetcode/blob/master/medium/k-closest-points-to-origin.md)
 * [把数组排成最小的数](https://github.com/woai3c/leetcode/blob/master/medium/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md)
 * [最小K个数](https://github.com/woai3c/leetcode/blob/master/medium/smallest-k-lcci.md)
+* [三次操作后最大值与最小值的最小差](https://github.com/woai3c/leetcode/blob/master/medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.md)
