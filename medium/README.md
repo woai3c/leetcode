@@ -134,3 +134,4 @@
 * [把数组排成最小的数](https://github.com/woai3c/leetcode/blob/master/medium/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md)
 * [最小K个数](https://github.com/woai3c/leetcode/blob/master/medium/smallest-k-lcci.md)
 * [三次操作后最大值与最小值的最小差](https://github.com/woai3c/leetcode/blob/master/medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.md)
+* [数组中的 k 个最强值](https://github.com/woai3c/leetcode/blob/master/medium/the-k-strongest-values-in-an-array.md)
