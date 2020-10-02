@@ -133,3 +133,4 @@
 * [重新排列字符串](https://github.com/woai3c/leetcode/blob/master/easy/shuffle-string.md)
 * [判断能否形成等差数列](https://github.com/woai3c/leetcode/blob/master/easy/can-make-arithmetic-progression-from-sequence.md)
 * [去掉最低工资和最高工资后的工资平均值](https://github.com/woai3c/leetcode/blob/master/easy/average-salary-excluding-the-minimum-and-maximum-salary.md)
+* [一维数组的动态和](https://github.com/woai3c/leetcode/blob/master/easy/running-sum-of-1d-array.md)
