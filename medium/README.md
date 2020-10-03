@@ -136,3 +136,4 @@
 * [三次操作后最大值与最小值的最小差](https://github.com/woai3c/leetcode/blob/master/medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.md)
 * [数组中的 k 个最强值](https://github.com/woai3c/leetcode/blob/master/medium/the-k-strongest-values-in-an-array.md)
 * [餐厅过滤器](https://github.com/woai3c/leetcode/blob/master/medium/filter-restaurants-by-vegan-friendly-price-and-distance.md)
+* [删除被覆盖区间](https://github.com/woai3c/leetcode/blob/master/medium/remove-covered-intervals.md)
