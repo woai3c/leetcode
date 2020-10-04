@@ -137,3 +137,4 @@
 * [数组中的 k 个最强值](https://github.com/woai3c/leetcode/blob/master/medium/the-k-strongest-values-in-an-array.md)
 * [餐厅过滤器](https://github.com/woai3c/leetcode/blob/master/medium/filter-restaurants-by-vegan-friendly-price-and-distance.md)
 * [删除被覆盖区间](https://github.com/woai3c/leetcode/blob/master/medium/remove-covered-intervals.md)
+* [least-number-of-unique-integers-after-k-removals.md](https://github.com/woai3c/leetcode/blob/master/medium/least-number-of-unique-integers-after-k-removals.md)
