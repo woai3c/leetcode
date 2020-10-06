@@ -31,3 +31,4 @@
 * [不同的子序列](https://github.com/woai3c/leetcode/blob/master/hard/distinct-subsequences.md)
 * [二叉树中的最大路径和](https://github.com/woai3c/leetcode/blob/master/hard/binary-tree-maximum-path-sum.md)
 * [二叉搜索子树的最大键值和](https://github.com/woai3c/leetcode/blob/master/hard/maximum-sum-bst-in-binary-tree.md)
+* [最大间距](https://github.com/woai3c/leetcode/blob/master/hard/maximum-gap.md)
