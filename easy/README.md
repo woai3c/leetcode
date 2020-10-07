@@ -136,3 +136,4 @@
 * [一维数组的动态和](https://github.com/woai3c/leetcode/blob/master/easy/running-sum-of-1d-array.md)
 * [斐波那契数](https://github.com/woai3c/leetcode/blob/master/easy/fibonacci-number.md)
 * [替换所有的问号](https://github.com/woai3c/leetcode/blob/master/easy/replace-all-s-to-avoid-consecutive-repeating-characters.md)
+* [递增顺序查找树](https://github.com/woai3c/leetcode/blob/master/easy/increasing-order-search-tree.md)
