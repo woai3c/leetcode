@@ -138,3 +138,4 @@
 * [餐厅过滤器](https://github.com/woai3c/leetcode/blob/master/medium/filter-restaurants-by-vegan-friendly-price-and-distance.md)
 * [删除被覆盖区间](https://github.com/woai3c/leetcode/blob/master/medium/remove-covered-intervals.md)
 * [不同整数的最少数目](https://github.com/woai3c/leetcode/blob/master/medium/least-number-of-unique-integers-after-k-removals.md)
+* [用最少数量的箭引爆气球](https://github.com/woai3c/leetcode/blob/master/medium/minimum-number-of-arrows-to-burst-balloons.md)
