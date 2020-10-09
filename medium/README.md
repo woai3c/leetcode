@@ -139,3 +139,4 @@
 * [删除被覆盖区间](https://github.com/woai3c/leetcode/blob/master/medium/remove-covered-intervals.md)
 * [不同整数的最少数目](https://github.com/woai3c/leetcode/blob/master/medium/least-number-of-unique-integers-after-k-removals.md)
 * [用最少数量的箭引爆气球](https://github.com/woai3c/leetcode/blob/master/medium/minimum-number-of-arrows-to-burst-balloons.md)
+* [通过投票对团队排名](https://github.com/woai3c/leetcode/blob/master/medium/rank-teams-by-votes.md)
