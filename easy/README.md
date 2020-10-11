@@ -138,3 +138,4 @@
 * [替换所有的问号](https://github.com/woai3c/leetcode/blob/master/easy/replace-all-s-to-avoid-consecutive-repeating-characters.md)
 * [递增顺序查找树](https://github.com/woai3c/leetcode/blob/master/easy/increasing-order-search-tree.md)
 * [最小栈](https://github.com/woai3c/leetcode/blob/master/easy/min-stack.md)
+* [整理字符串](https://github.com/woai3c/leetcode/blob/master/easy/make-the-string-great.md)
