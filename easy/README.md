@@ -139,3 +139,7 @@
 * [递增顺序查找树](https://github.com/woai3c/leetcode/blob/master/easy/increasing-order-search-tree.md)
 * [最小栈](https://github.com/woai3c/leetcode/blob/master/easy/min-stack.md)
 * [整理字符串](https://github.com/woai3c/leetcode/blob/master/easy/make-the-string-great.md)
+* [用栈操作构建数组](https://github.com/woai3c/leetcode/blob/master/easy/build-an-array-with-stack-operations.md)
+* [用栈实现队列](https://github.com/woai3c/leetcode/blob/master/easy/implement-queue-using-stacks.md)
+* [用队列实现栈](https://github.com/woai3c/leetcode/blob/master/easy/implement-stack-using-queues.md)
+* [下一个更大元素 I](https://github.com/woai3c/leetcode/blob/master/easy/next-greater-element-i.md)
