@@ -143,3 +143,5 @@
 * [用栈实现队列](https://github.com/woai3c/leetcode/blob/master/easy/implement-queue-using-stacks.md)
 * [用队列实现栈](https://github.com/woai3c/leetcode/blob/master/easy/implement-stack-using-queues.md)
 * [下一个更大元素 I](https://github.com/woai3c/leetcode/blob/master/easy/next-greater-element-i.md)
+* [文件夹操作日志搜集器](https://github.com/woai3c/leetcode/blob/master/easy/crawler-log-folder.md)
+* [棒球比赛](https://github.com/woai3c/leetcode/blob/master/easy/baseball-game.md)
