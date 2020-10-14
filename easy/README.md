@@ -145,3 +145,4 @@
 * [下一个更大元素 I](https://github.com/woai3c/leetcode/blob/master/easy/next-greater-element-i.md)
 * [文件夹操作日志搜集器](https://github.com/woai3c/leetcode/blob/master/easy/crawler-log-folder.md)
 * [棒球比赛](https://github.com/woai3c/leetcode/blob/master/easy/baseball-game.md)
+* [删除字符串中的所有相邻重复项](https://github.com/woai3c/leetcode/blob/master/easy/remove-all-adjacent-duplicates-in-string.md)
