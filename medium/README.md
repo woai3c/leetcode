@@ -141,3 +141,4 @@
 * [用最少数量的箭引爆气球](https://github.com/woai3c/leetcode/blob/master/medium/minimum-number-of-arrows-to-burst-balloons.md)
 * [通过投票对团队排名](https://github.com/woai3c/leetcode/blob/master/medium/rank-teams-by-votes.md)
 * [使括号有效的最少添加](https://github.com/woai3c/leetcode/blob/master/medium/minimum-add-to-make-parentheses-valid.md)
+* [设计一个支持增量操作的栈](https://github.com/woai3c/leetcode/blob/master/medium/design-a-stack-with-increment-operation.md)
