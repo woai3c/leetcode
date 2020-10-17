@@ -143,3 +143,4 @@
 * [使括号有效的最少添加](https://github.com/woai3c/leetcode/blob/master/medium/minimum-add-to-make-parentheses-valid.md)
 * [设计一个支持增量操作的栈](https://github.com/woai3c/leetcode/blob/master/medium/design-a-stack-with-increment-operation.md)
 * [每日温度](https://github.com/woai3c/leetcode/blob/master/medium/daily-temperatures.md)
+* [扁平化嵌套列表迭代器](https://github.com/woai3c/leetcode/blob/master/medium/flatten-nested-list-iterator.md)
