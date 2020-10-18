@@ -144,3 +144,4 @@
 * [设计一个支持增量操作的栈](https://github.com/woai3c/leetcode/blob/master/medium/design-a-stack-with-increment-operation.md)
 * [每日温度](https://github.com/woai3c/leetcode/blob/master/medium/daily-temperatures.md)
 * [扁平化嵌套列表迭代器](https://github.com/woai3c/leetcode/blob/master/medium/flatten-nested-list-iterator.md)
+* [括号的分数](https://github.com/woai3c/leetcode/blob/master/medium/score-of-parentheses.md)
