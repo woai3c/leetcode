@@ -146,3 +146,4 @@
 * [扁平化嵌套列表迭代器](https://github.com/woai3c/leetcode/blob/master/medium/flatten-nested-list-iterator.md)
 * [括号的分数](https://github.com/woai3c/leetcode/blob/master/medium/score-of-parentheses.md)
 * [验证栈序列](https://github.com/woai3c/leetcode/blob/master/medium/validate-stack-sequences.md)
+* [下一个更大元素 II](https://github.com/woai3c/leetcode/blob/master/medium/next-greater-element-ii.md)
