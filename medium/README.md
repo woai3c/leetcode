@@ -147,3 +147,4 @@
 * [括号的分数](https://github.com/woai3c/leetcode/blob/master/medium/score-of-parentheses.md)
 * [验证栈序列](https://github.com/woai3c/leetcode/blob/master/medium/validate-stack-sequences.md)
 * [下一个更大元素 II](https://github.com/woai3c/leetcode/blob/master/medium/next-greater-element-ii.md)
+* [检查替换后的词是否有效](https://github.com/woai3c/leetcode/blob/master/medium/check-if-word-is-valid-after-substitutions.md)
