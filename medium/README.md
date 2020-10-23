@@ -149,3 +149,5 @@
 * [下一个更大元素 II](https://github.com/woai3c/leetcode/blob/master/medium/next-greater-element-ii.md)
 * [检查替换后的词是否有效](https://github.com/woai3c/leetcode/blob/master/medium/check-if-word-is-valid-after-substitutions.md)
 * [根据字符出现频率排序](https://github.com/woai3c/leetcode/blob/master/medium/sort-characters-by-frequency.md)
+* [移除无效的括号](https://github.com/woai3c/leetcode/blob/master/medium/minimum-remove-to-make-valid-parentheses.md)
+* [链表中的下一个更大节点](https://github.com/woai3c/leetcode/blob/master/medium/next-greater-node-in-linked-list.md)
