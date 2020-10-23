@@ -148,3 +148,4 @@
 * [删除字符串中的所有相邻重复项](https://github.com/woai3c/leetcode/blob/master/easy/remove-all-adjacent-duplicates-in-string.md)
 * [最后一块石头的重量](https://github.com/woai3c/leetcode/blob/master/easy/last-stone-weight.md)
 * [分割平衡字符串](https://github.com/woai3c/leetcode/blob/master/easy/split-a-string-in-balanced-strings.md)
+* [玩筹码](https://github.com/woai3c/leetcode/blob/master/easy/minimum-cost-to-move-chips-to-the-same-position.md)
