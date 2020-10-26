@@ -151,3 +151,4 @@
 * [根据字符出现频率排序](https://github.com/woai3c/leetcode/blob/master/medium/sort-characters-by-frequency.md)
 * [移除无效的括号](https://github.com/woai3c/leetcode/blob/master/medium/minimum-remove-to-make-valid-parentheses.md)
 * [链表中的下一个更大节点](https://github.com/woai3c/leetcode/blob/master/medium/next-greater-node-in-linked-list.md)
+* [反转每对括号间的子串](https://github.com/woai3c/leetcode/blob/master/medium/reverse-substrings-between-each-pair-of-parentheses.md)
