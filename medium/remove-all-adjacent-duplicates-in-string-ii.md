@@ -35,3 +35,38 @@
 * 1 <= s.length <= 10^5
 * 2 <= k <= 10^4
 * s 中只含有小写英文字母。
+
+## 解法
+用栈 `stack` 来维护已经遍历过但没消除的字符，用 `cur` 表示当前正在遍历的字符。
+```c++
+class Solution {
+public:
+    string removeDuplicates(string s, int k) {
+        vector<string> stack;
+        string cur;
+        for (int i = 0, len = s.size(); i < len; i++) {
+            if (!cur.empty() && cur.back() != s[i]) {
+                stack.push_back(cur);
+                cur = "";
+            }
+
+            cur += s[i];
+            if (cur.size() == k) {
+                cur = ""; // 消除
+                // 从栈顶元素重新开始比较
+                if (!stack.empty()) {
+                    cur = stack.back();
+                    stack.pop_back();
+                }
+            }
+        }
+
+        string result;
+        for (auto c : stack) {
+            result += c;
+        }
+
+        return result + cur;
+    }
+};
+```
