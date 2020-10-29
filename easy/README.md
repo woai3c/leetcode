@@ -150,3 +150,4 @@
 * [分割平衡字符串](https://github.com/woai3c/leetcode/blob/master/easy/split-a-string-in-balanced-strings.md)
 * [玩筹码](https://github.com/woai3c/leetcode/blob/master/easy/minimum-cost-to-move-chips-to-the-same-position.md)
 * [换酒问题](https://github.com/woai3c/leetcode/blob/master/easy/water-bottles.md)
+* [数组异或操作](https://github.com/woai3c/leetcode/blob/master/easy/xor-operation-in-an-array.md)
