@@ -153,3 +153,4 @@
 * [链表中的下一个更大节点](https://github.com/woai3c/leetcode/blob/master/medium/next-greater-node-in-linked-list.md)
 * [反转每对括号间的子串](https://github.com/woai3c/leetcode/blob/master/medium/reverse-substrings-between-each-pair-of-parentheses.md)
 * [删除字符串中的所有相邻重复项 II](https://github.com/woai3c/leetcode/blob/master/medium/remove-all-adjacent-duplicates-in-string-ii.md)
+* [分割回文串](https://github.com/woai3c/leetcode/blob/master/medium/palindrome-partitioning.md)
